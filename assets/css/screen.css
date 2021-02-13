@@ -259,12 +259,16 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     text-transform: uppercase;
 }
 
+/* 네비 메뉴 설정*/
 .nav li a {
     display: block;
     margin: 0;
     padding: 10px 12px;
     color: #fff;
     opacity: 0.8;
+    font-weight: bold; /*내가 넣어준 것*/
+    font-size: large; /*이모지로 바꿔서 medium -> large*/
+    font-family: inherit;
 }
 
 .nav li a:hover {
