@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://is3js.github.io/tag/rehab/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://is3js.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-02-10T02:55:10+09:00</updated>
+  <updated>2021-02-13T17:27:46+09:00</updated>
   <id>https://is3js.github.io/tag/rehab/feed.xml</id>
 
   
@@ -85,6 +85,75 @@
 
       
         <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">이학적검사 - 경추✨</title>
+      <link href="https://is3js.github.io/korea-to-english" rel="alternate" type="text/html" title="이학적검사 - 경추✨" />
+      <published>2021-02-04T01:40:00+09:00</published>
+      <updated>2021-02-04T01:40:00+09:00</updated>
+      <id>https://is3js.github.io/korea-to-english</id>
+      <content type="html" xml:base="https://is3js.github.io/korea-to-english">&lt;h1 id=&quot;h1입니다&quot;&gt;h1입니다.✌&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;헤헤헤
+    &lt;ul&gt;
+      &lt;li&gt;어때요?&lt;/li&gt;
+      &lt;li&gt;ㅎㅎㅎㅎ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;안녕하세요-샵2-h2&quot;&gt;안녕하세요.💕 샵2 h2&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;이 글은 한의학시작 시작 test 페이지입니다.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;이것은 어떤가요&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;샵3개&quot;&gt;샵3개&lt;/h3&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;os&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;listdir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Student&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; 
+    &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;다시-2개-ㅋㅋ&quot;&gt;다시 2개 ㅋㅋ&lt;/h2&gt;
+&lt;p&gt;ㅋㅋㅋ&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>daisykim88</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="김석영" />
+      
+        <category term="이학적검사" />
+      
+        <category term="Rehab" />
+      
+
+      
+        <summary type="html">h1입니다.✌ 헤헤헤 어때요? ㅎㅎㅎㅎ</summary>
       
 
       

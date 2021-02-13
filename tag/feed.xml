@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://is3js.github.io/tag/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://is3js.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-02-10T02:55:10+09:00</updated>
+  <updated>2021-02-13T17:27:46+09:00</updated>
   <id>https://is3js.github.io/tag/feed.xml</id>
 
   
@@ -35,40 +35,43 @@
   
     <entry>
       <title type="html">논문 관련 게시판 2번째 글입니다.</title>
-      <link href="https://is3js.github.io/nonmoon2" rel="alternate" type="text/html" title="논문 관련 게시판 2번째 글입니다." />
-      <published>2021-02-06T01:40:00+09:00</published>
-      <updated>2021-02-06T01:40:00+09:00</updated>
-      <id>https://is3js.github.io/nonmoon2</id>
-      <content type="html" xml:base="https://is3js.github.io/nonmoon2">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#안녕하세요&quot; id=&quot;markdown-toc-안녕하세요&quot;&gt;안녕하세요.&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#작은-목차입니다&quot; id=&quot;markdown-toc-작은-목차입니다&quot;&gt;작은 목차입니다.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ㄴㅇㄻㄴㄹㅇ&quot; id=&quot;markdown-toc-ㄴㅇㄻㄴㄹㅇ&quot;&gt;ㄴㅇㄻㄴㄹㅇ&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#더-작은데요&quot; id=&quot;markdown-toc-더-작은데요&quot;&gt;더 작은데요.&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
+      <link href="https://is3js.github.io/%ED%8C%94%EA%BF%88%EC%B9%98_%EC%9D%B4%ED%95%99%EC%A0%81%EA%B2%80%EC%82%AC" rel="alternate" type="text/html" title="논문 관련 게시판 2번째 글입니다." />
+      <published>2021-02-13T01:40:00+09:00</published>
+      <updated>2021-02-13T01:40:00+09:00</updated>
+      <id>https://is3js.github.io/%ED%8C%94%EA%BF%88%EC%B9%98_%EC%9D%B4%ED%95%99%EC%A0%81%EA%B2%80%EC%82%AC</id>
+      <content type="html" xml:base="https://is3js.github.io/%ED%8C%94%EA%BF%88%EC%B9%98_%EC%9D%B4%ED%95%99%EC%A0%81%EA%B2%80%EC%82%AC">&lt;h2 id=&quot;mediallater-epicondylitis-검사&quot;&gt;Medial/Later Epicondylitis 검사&lt;/h2&gt;
+
+&lt;h3 id=&quot;cozens-test-for-외측상과염tennis&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8K7jzDIUpLI&quot;&gt;Cozen’s test for 외측상과염(Tennis)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;외측상과에는 손목을 신전시키는 근육들이 붙는다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;앉은 상태에서, 팔꿈치를 90도 정도 편하게 굽힌 상태로
+검사자는 보조수의 엄지로 lateral epicondyle을 촉진한다.&lt;/p&gt;
+
+    &lt;p&gt;“환자분 주먹 쥐어보세요~” 하면서 주먹을 쥐게 한다.
+손바닥이 바닥을 보도록 &lt;strong&gt;전완-pronate&lt;/strong&gt; 시키고,  엄지방향으로 &lt;strong&gt;손목- radial deviation&lt;/strong&gt;시킨다.
+“손목을 저처럼 펴보세요~”하면서 손목을 신전시키게 하고, 검사자는 반대로 저항한다.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://cfile29.uf.tistory.com/image/99EFBE42601F6F2B15447F&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://cfile4.uf.tistory.com/image/9965AE3A601F6FFC166A3D&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://cfile9.uf.tistory.com/image/9910DB43601F6FED16E83A&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;안녕하세요&quot;&gt;안녕하세요.&lt;/h2&gt;
+&lt;h3 id=&quot;reverse-cozens-test-for-내측상과염golf&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1gdPjO_UV_Y&quot;&gt;Reverse cozen’s test for 내측상과염(Golf)&lt;/a&gt;&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;이 글은 논문 2번째 페이지입니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;작은-목차입니다&quot;&gt;작은 목차입니다.&lt;/h3&gt;
-&lt;p&gt;ㅋㅋㅋㅋ&lt;/p&gt;
-&lt;h3 id=&quot;ㄴㅇㄻㄴㄹㅇ&quot;&gt;ㄴㅇㄻㄴㄹㅇ&lt;/h3&gt;
-
-&lt;h4 id=&quot;더-작은데요&quot;&gt;더 작은데요.&lt;/h4&gt;
-
-&lt;p /&gt;
-
-&lt;p /&gt;
-
-&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Paper 관련 글 목록입니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./nonmoon&quot;&gt;논문 관련 게시판 첫글입니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./nonmoon2&quot;&gt;논문 관련 게시판 2번째 글입니다.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Golf elbow는 Medial epicondyle문제로 손목을 굴곡시키는 근육들이 붙는다.&lt;/li&gt;
+  &lt;li&gt;팔꿉치를 90도 굴곡상태로 보조수로 내측상과를 촉지한다.
+주먹을 쥐고, &lt;strong&gt;전완-supinate, 손목-unlar deviation&lt;/strong&gt;상태에서
+“저처럼 손목을 굽혀보실께요~”하면서 손목을 굴곡시킨다.
+주동수로 아래방향으로 펴면서 “버텨보세요~”하면서 통증이 나타나는지 본다.&lt;img src=&quot;http://cfile22.uf.tistory.com/image/99F8A344601F728815FAA2&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://cfile23.uf.tistory.com/image/99F40944601F729416D75E&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://cfile30.uf.tistory.com/image/990C5048601F729F159EB7&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://cfile2.uf.tistory.com/image/99E81E34601F72AE1610F1&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
 
       
@@ -88,73 +91,13 @@
       
         <category term="조재성" />
       
-        <category term="Paper" />
+        <category term="이학적검사" />
+      
+        <category term="팔꿈치" />
       
 
       
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">논문 관련 게시판 첫글입니다.</title>
-      <link href="https://is3js.github.io/nonmoon" rel="alternate" type="text/html" title="논문 관련 게시판 첫글입니다." />
-      <published>2021-02-04T01:40:00+09:00</published>
-      <updated>2021-02-04T01:40:00+09:00</updated>
-      <id>https://is3js.github.io/nonmoon</id>
-      <content type="html" xml:base="https://is3js.github.io/nonmoon">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#1-안녕하세요&quot; id=&quot;markdown-toc-1-안녕하세요&quot;&gt;1. 안녕하세요.&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#2-작은-목차입니다&quot; id=&quot;markdown-toc-2-작은-목차입니다&quot;&gt;2. 작은 목차입니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;1-안녕하세요&quot;&gt;1. 안녕하세요.&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;이 글은 논문 시작 test 페이지입니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-작은-목차입니다&quot;&gt;2. 작은 목차입니다.&lt;/h3&gt;
-
-&lt;p /&gt;
-
-&lt;p /&gt;
-
-&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Paper 관련 글 목록입니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./nonmoon&quot;&gt;논문 관련 게시판 첫글입니다.&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./nonmoon2&quot;&gt;논문 관련 게시판 2번째 글입니다.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>tingstyle1</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="조재성" />
-      
-        <category term="Paper" />
-      
-        <category term="KoreanMedicine" />
-      
-        <category term="Food" />
-      
-
-      
-        <summary type="html"></summary>
+        <summary type="html">Medial/Later Epicondylitis 검사</summary>
       
 
       
