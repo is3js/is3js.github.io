@@ -50,7 +50,7 @@ baseurl: /
 title: 슬기로운 한의사 생활
 # 자신의 blog title.
 
-description : 조재성, 김석영의 Progress Note
+description : 슬기로운 한의사 생활
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
 cover: assets/built/images/background-frontend.jpg
@@ -58,8 +58,8 @@ cover: assets/built/images/background-frontend.jpg
 # assets/built/images/ 는 폴더명 -> images 폴더는 따로 만들어줘야한다.
 # blog-cover1.png는 고정된 이미지 이름.
 
-logo:
-logo_dark:
+logo: assets/built/images/blog-logo.png
+logo_dark: assets/built/images/blog-logo.png
 
 favicon: assets/built/images/favicon.png
 # favicon으로 사용할 image
@@ -69,7 +69,7 @@ production_url: https://is3js.github.io/
 # url과 동일하게 해야한다.
 
 source_url: https://github.com/is3js/GitHubPageMaker/
-# 로컬 c:/blogmaker를 컴파일하여 생성된 [GihubPageMaker] 폴더를 github에 올린 뒤, 그 깃허브 주소
+# 로컬 c:/blogmaker 지킬 원본에 대한 깃레포. 첨엔 없어도된다. travis용.
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -118,8 +118,9 @@ feed:
 safe: False
 lsi: False
 
+# travis용
 username: is3js # travis에 연결할 github 이름
-repo: GitHubPageMaker # travis에 연결할 github 레파지토리
+repo: GitHubPageMaker # travis에 연결할 블로그 원본 레포의 이름
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
@@ -129,7 +130,9 @@ branch: main
 
 relative_source:
 
-destination: ../[GithubPage]/
+destination: ./output/
+# travis를 위해 원격 원본 repo 안에 생성되도록함. 결과물 레포에 이 폴더를 밀어넣을 것임
+# destination: ../[GithubPage]/   <--- travis사용전에는 상위폴더에서 [GithubPage]/라는 폴더에 결과물 컴파일 해서 is3js.github.io에 올렸었음.
 # ./output/ for travis 배포
 # 지킬이 만든 compile된 결과가 생성되는 폴더 (.현재폴더 밑에 output/폴더에 생기도록 -> travis와 연관되어서 이렇게 지정해줘야한다. ./output/)
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
