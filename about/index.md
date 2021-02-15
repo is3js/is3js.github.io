@@ -8,9 +8,6 @@ class: page-template
 subclass: 'post page'
 ---
 
----
-Travis로 자동화 확인중입니다.
----
 조재성입니다.
 
 - 남해고등학교 졸업
