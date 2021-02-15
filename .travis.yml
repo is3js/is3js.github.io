@@ -1,30 +1,16 @@
-#sudo: false
 language: ruby
 cache: bundler
 rvm:
 - 2.7.0
-
 install:
-  # Install Jekyll and dependencies
-  - bundle install
-
+- bundle install
 before_script:
-  - git config --global user.email "is2js@naver.com"
-  - git config --global user.name "is3js"
-
-script: bundle exec rake site:deploy --quiet #--trace
-
-# Generate your secure token with the travis gem:
-# get Github token from your Travis CI profile page
-# gem install travis
-# GH_TOKEN from https://github.com/settings/tokens
-# travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN'
+- git config --global user.email "is2js@naver.com"
+- git config --global user.name "is3js"
+script: bundle exec rake site:deploy --quiet
 env:
   global:
-    secure: "YjnXAXZxW2lnCLMG4DozBjhOvyfhK9OaL/Z9Aa4qNxNVHHNn+bD64C+UGMGbNNTvvFIKQ7Y9rHMhxdW8Tnv1XWIaH7BV9yCKOzGzt8PCbkz/NbAyLdteMTyLWD0csJpQ3mzPpwuxvWn7IIYQCAy5usNSudoIiQGaBdg6LRW3IRlpwgECTZ5IvG6Ytr7eeWVtkYTbyr/jmrKx/VyxFvm/WM+QHna2F88J
-1JCJZND2ZAXL54zAG7LmaOCkTKyNRKSlonnGAA2Yk84rXxJYcheqptbjHrBt4zb2mEO4w0bhsfmi4sHOQqs+6yULDOel2hYmKHIQGII2NYmbCjrWEj3y3MHnrculZcsVdZA52Lg1vqAqmaCa3YgJG8mS3wPQsARhqFHeK8agGJnh1mZMGkSwqtFnLkzBmWvzlEhlJtYlTUkslAO2h/k3xMwMc3OGVmRlbLWbxHX2Zd5
-L7nLIyq6YVZmKAy62zeSz/mMd9mgoD7zPo8NxLTEMc/xM3+c/PByYnPE4V9AoXSlKiFUB+3fFzblb5LU6tvAjulBzrRQWtkFJnrqh3RWrtV+Rs6fq4n/d4t+LyFBYH4ZD1GkhIQpFp+XxtAbIHsUJT8n5oT0SquaRo1NuPJJA0hDXVXCCwnDNeC+jY8PGyWx3s6bYp7mIxYugIKBu84yzfcEaZaouEr0="
-
+  - secure: HXB08hxqyi73HggXrefdkVITHqDGDw7eUX7WD1H+MlzFi/ONDqUexxjapZ19x/8YgvRoDr4j51NcIs6QN3570MVc6PAALYkJUiadgKdxfQPucVxIh0MroSFyQBXnWw2uNtO6Evbfs3TBcBxgbSzLGr4SuucFOrB3qbRMPuHB6MP8sfgy2VVTnI15CFa8WWtl7qgYcA87YkedQrnz8b48rNusajDCnN/dvYZf1agRp3x0FsfQ+eIAFBRDbThx2LFm1ZZBP4UlA1qu9Y9cTmaRtcbDNyULekuLkDh8/A8Tx+32Q1YavSOkzBgwpubPTFNICPLGj9L9okbCM4hH0g1oxeJ1oSh1XKtjs7h6n4vuOUoHjhQAqaN2QSnlNtvwbM2WxnlI2E3Ng26KLf4krtDcZrjUimAcyj1QDDGGHt57qZiOyAVB2gPxHFeheFd+uBFapJtGThgF2HutrpU/rg+qHSENu+Adp3p+L3lXayZJ6eIDQzOZY0Ld2YogmjmpbVPS+4eAvl2N+MroBTMwoF/dANAOD1te6SLnin/G0ZlVaFHuaGlv75AkXzW7dHTKyVRfZrCum0/AxqNLpX68JRFOUnUM+ZL0WYz22Ht3yEna0bqfujH5oCXfGW4EK+0yu/Y3+pm/QiUVYIOkUfEmhgQOT1HsRi+DNc0cd409KQf1y24=
 branches:
   only:
-    - main
+  - main

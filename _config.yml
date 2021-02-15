@@ -120,7 +120,7 @@ lsi: False
 
 # travis용
 username: is3js # travis에 연결할 github id명   ex> /is3js/is3js.github.io에   /is3js/의 isj3s
-repo: is3js.github.io # travis에 연결할 블로그 원본 레포의 이름
+repo: GitHubPageMaker # travis에 연결할 블로그 원본 레포의 이름
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
