@@ -1,8 +1,8 @@
-#sudo: false
+sudo: false
 language: ruby
 cache: bundler
 rvm:
-- 2.7.0
+- 2.5.1
 install:
 - bundle install
 before_script:
@@ -11,7 +11,7 @@ before_script:
 script: bundle exec rake site:deploy --quiet
 env:
   global:
-  - secure: d4p2ufnK/2EYg8egY0euGgwrHCQkL55EIyRgg+tUvsJh6sCMA2VUrWDIDhrP44sem97nySzWbQsP1P06fvtbO87u4BrRgLirsb3W/+QfgJsulx2EQyxZ/pWs9NPRZZNVxGJB62fIhWH6Wa0SVx7vAyIoaqGw1h/hp1UNgth/KF/M4nRX93IaYmX0pczhKBZ/eH6RK56Az4ZJNRu6tY24ozEPwH8TlCBQSO2l0gqR3TuFAQzpJfoAJvcmqHwyaGKgOa62u0DASZrDrE6mCePhVSOSoThuOLueRW6QwUO3nOuWHY50cWoFwQgyzG0/+ZwNIrViX9lfYXbwfbl0DFksM2IxfRPHC/6Z8mPnehq8Sy8W1Equ85tdlUNwbKiaHZ8O+1yIpM+t4nkBtiYrxtTJIQgjfqpBlUWZe5UnTIroFciEqpGUpf8jQ4lI0/OahHP0ggUmcuV3vyl2sbk7vnkxQrI2q5T49ZKf6VKsd1dLSRZx7oh1/B5zWDrpRHbkjM2YKELvGB+RepvYIG3F1s+s+9yAWEENwQFrXZED/+biUi+hxDL9/gpyy/NVO1ffFUDnA2PrLzr/IfmHaAQ0HYrRdfuBajwWgJrMwN1F5EcNu6vtfsbwgkns9AI4J0EZifcpyFsdWjXU67udes1ARD2OALHz8vVgqlydvkjbEOjYmp0=
+  - secure: jZc0dQE66JZA3vh6TlFeR5nPmB9XXOAuuJi14LtZIWcTnC/mlxw/R8dmqTZymlsQu7RWqU/tbJa28aA5Cmsxr9VbTeJyrb1+yXG12W0ngZcPcWO6zLNmD2qGugEc9Zl801AbljKqL7EYfl9MEuWvzoiZ6UvF2Co+a9DgWWKyyL3BKipqDqR+mrfYIs1sqCLgbrg+0SSfUIme5m/lt1IltWo3wg9U4GFvK0vQ2+DuOJ9+ISz/QHkOXtCgNxxGsPp1s9KbxeoGoW+zS8JiMaI7p+FEuuMr5NazvSCnPCZG+S9r4VMyKmGnuOLADmpiiyK1U3UdJYGj0hbCXOYG4SwVbnQ32LzdRZoV+MJhawhTqrBO6c1I1rkOE9fM2NdiMUs+MelO1ng7rtJXk3zygWF7vObG1wiG0n1rIFOQOTitrgXirkTxnAt5i9dLTF/IOIJ0Xnf/nF9vdI1dUbK+VfeEuu3paBAxVf6j6OWIOTbVKyjCvZ8DdiUm+SczLv8+K/+PbuhUe/RqNlQfPUt44JpfqxJbcZoL0Tjo9Zv62y0wDBqI1pecjuGWWhw9kpQHfLnkYIJGjTXISGuPBCR8RKACVOCcLf+K0rsZA8bboFb8A/S6ild+RZ2DMXzGIcdC6RJsudBCoOkbxJN8fNi8adg3pDn0fAuEueJ7cFkAOru3eEw=
 branches:
   only:
   - main

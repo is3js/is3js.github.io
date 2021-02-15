@@ -120,7 +120,7 @@ lsi: False
 
 # travis용
 username: is3js # travis에 연결할 github id명   ex> /is3js/is3js.github.io에   /is3js/의 isj3s
-repo: GitHubPageMaker # travis에 연결할 블로그 원본 레포의 이름
+repo: GithubPageMaker # travis에 연결할 블로그 원본 레포의 이름
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
@@ -128,9 +128,11 @@ repo: GitHubPageMaker # travis에 연결할 블로그 원본 레포의 이름
 branch: main
 # 사용할 branch명 master -> main 으로 변경되어서.. main으로 일단 바꿔보자.
 
+
 relative_source:
 
-destination: ./output/
+destination: ../[GithubPage]/
+#./output/
 # travis를 위해 원격 원본 repo 안에 생성되도록함. 결과물 레포에 이 폴더를 밀어넣을 것임
 # destination: ../[GithubPage]/   <--- travis사용전에는 상위폴더에서 [GithubPage]/라는 폴더에 결과물 컴파일 해서 is3js.github.io에 올렸었음.
 # ./output/ for travis 배포
@@ -143,22 +145,22 @@ destination: ./output/
 
 # exclude는 Jekyll컴파일 시 destination에 포함될 필요가 없는것들을 명시한다. (node_modules와 필요없는 것들은 제외)
 exclude:
-#  - README.md
-#  - Rakefile
-#  - Gemfile
-#  - Gemfile.lock
-#  - changelog.md
-#  - "*.Rmd"
-#  - vendor
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
 #  - .travis.yml
-#  - node_modules
-#  - assets/css
-#  - assets/images
-#  - _posts/angular
-#  - _posts/et-cetera
-#  - _posts/python
-#  - _posts/typescript
-#  - _posts/jekyll
-#  - _posts/iot
-#  - _posts/r
-#  - _posts/economy
+  - node_modules
+  - assets/css
+  - assets/images
+  - _posts/angular
+  - _posts/et-cetera
+  - _posts/python
+  - _posts/typescript
+  - _posts/jekyll
+  - _posts/iot
+  - _posts/r
+  - _posts/economy
