@@ -132,7 +132,11 @@ branch: main
 relative_source:
 
 destination: ./output/
-#../[GithubPage]/
+#  ../[GithubPage]/
+#
+#
+
+
 #
 # travis를 위해 원격 원본 repo 안에 생성되도록함. 결과물 레포에 이 폴더를 밀어넣을 것임
 # destination: ../[GithubPage]/   <--- travis사용전에는 상위폴더에서 [GithubPage]/라는 폴더에 결과물 컴파일 해서 is3js.github.io에 올렸었음.

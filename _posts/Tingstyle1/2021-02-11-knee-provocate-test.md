@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 무릎-이학적검사  
 date: 2021-02-11 16:40:00
-tags: [조재성, 이학적검사, 무릎] 
+tags: [무릎, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -21,13 +21,13 @@ toc: true
 
 ## [ACL(전방십자인대) 검사](https://www.youtube.com/watch?v=tf2xBJZFcg4)
 
-![](http://cfile1.uf.tistory.com/image/991F03366024A13D1AD283)
-![](http://cfile22.uf.tistory.com/image/998314336024A18C1BC3DA)
-![](http://cfile5.uf.tistory.com/image/999AD2376024A19C1AF303)
-![](http://cfile21.uf.tistory.com/image/99834C446024A1A91A3401)
-![](http://cfile25.uf.tistory.com/image/998323336024A1B51B43B4)
-![](http://cfile28.uf.tistory.com/image/99B7CE436024A1C11B8991)
-![](http://cfile22.uf.tistory.com/image/99D0D33A6024A2331AE9A0)
+![](https://user-images.githubusercontent.com/54255124/107912152-5451d900-6fa1-11eb-808b-f20c9cc708a5.png)
+![](https://user-images.githubusercontent.com/54255124/107912156-56b43300-6fa1-11eb-8f78-2317be4120b9.png)
+![](https://user-images.githubusercontent.com/54255124/107912159-57e56000-6fa1-11eb-9c9d-5854f37a40a0.png)
+![](https://user-images.githubusercontent.com/54255124/107912162-59168d00-6fa1-11eb-9a10-90959b9d6d85.png)
+![](https://user-images.githubusercontent.com/54255124/107912166-5ae05080-6fa1-11eb-9f50-612f890e475d.png)
+![](https://user-images.githubusercontent.com/54255124/107912253-8b27ef00-6fa1-11eb-8a12-cbeca7ead5e4.png)
+![](https://user-images.githubusercontent.com/54255124/107912258-8cf1b280-6fa1-11eb-8700-7691a99448e5.png)
 
 
 
@@ -41,11 +41,11 @@ toc: true
   손상되었다면, 부드럽게 end point없이 당겨진다.
   -> **건측과 비교했을 때, 통증 및 덜렁거림이 느껴지면 만성 파열**
 
-  ![](http://cfile3.uf.tistory.com/image/99832F336024A29D1B53F9)
-  ![](http://cfile4.uf.tistory.com/image/996DA3426024A2FE1B1FD1)
-  ![](http://cfile4.uf.tistory.com/image/997CE2486024A30C1B393E)
-  ![](http://cfile4.uf.tistory.com/image/997AE5356024A3641A211A)
-  ![](http://cfile5.uf.tistory.com/image/99B7EB436024A3721B4070)
+  ![](https://user-images.githubusercontent.com/54255124/107912263-8ebb7600-6fa1-11eb-8af3-62cb16d6c099.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912268-8feca300-6fa1-11eb-8934-12fd6ce15fdb.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912272-911dd000-6fa1-11eb-9551-aba1a3f7d4d8.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912300-a4c93680-6fa1-11eb-8a1d-842e2a90c33b.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912303-a5fa6380-6fa1-11eb-877b-7760dc2c8ac7.png)
 
 
 
@@ -61,9 +61,9 @@ toc: true
 
   -> 6mm 이상 뒤로 밀리거나 통증 느낄시 양성
 
-  ![](http://cfile1.uf.tistory.com/image/991A99366024A5441B3174)
-  ![](http://cfile28.uf.tistory.com/image/998475446024A5991A11EC)
-  ![](http://cfile28.uf.tistory.com/image/99CB843A6024A5DF1AD19E)
+  ![](https://user-images.githubusercontent.com/54255124/107912307-a72b9080-6fa1-11eb-97a9-6febce9337a3.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912310-a7c42700-6fa1-11eb-92c5-9c4328ee7a25.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912317-a98dea80-6fa1-11eb-86a2-3e92f11e7f10.png)
 
 
 
@@ -74,13 +74,14 @@ toc: true
 ### [valgus(외전으로 내측) stress test](https://www.youtube.com/watch?v=GSFbttpxCuQ)
 
 - 앙와위 상태에서, 무릎을 완전히 펴거나 or 테이블 밖으로 소퇴를 내어놓고 무릎을 20도 정도 구부려서 검사한다.
-  ![](http://cfile4.uf.tistory.com/image/9979A0456024AD6E1A0F49)
+  ![](https://user-images.githubusercontent.com/54255124/107912396-c7f3e600-6fa1-11eb-8ccd-63abc1d33c71.png)
 - 한손으로는 ankle쪽을 안쪽 밑으로 감싸쥐고(외회전 시킬 준비), 다른 손으로는 femur를 고정시킨다. 
-  ankle을 잡은 손으로 tibia을 약간 외회전 시킨 뒤, knee joint를 abduction(외전)시키는 방향으로 **내측 측부인대**를 자극한다.![](http://cfile23.uf.tistory.com/image/9979A5456024ADC91A9B1F)
-  ![](http://cfile29.uf.tistory.com/image/997979486024ADDD1CCF96)
-  ![](http://cfile27.uf.tistory.com/image/99BB92436024ADE71BDDE2)
-  ![](http://cfile5.uf.tistory.com/image/991C28366024AE371B4FCA)
-  ![](http://cfile22.uf.tistory.com/image/9979B9456024AE4F1AE58E)
+  ankle을 잡은 손으로 tibia을 약간 외회전 시킨 뒤, knee joint를 abduction(외전)시키는 방향으로 **내측 측부인대**를 자극한다.
+  ![](https://user-images.githubusercontent.com/54255124/107912404-c9251300-6fa1-11eb-98f3-a2b73c1223b5.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912411-ca564000-6fa1-11eb-83fa-848486b2d163.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912419-cb876d00-6fa1-11eb-9e5f-32b1c0c7a9cf.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912423-ccb89a00-6fa1-11eb-850a-a17f8e82c0ac.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912455-de9a3d00-6fa1-11eb-9e84-26dcd2a6652f.png)
 
 
 
@@ -92,9 +93,9 @@ toc: true
   한손으로 ankle을 바깥 밑으로 감싸쥐고(내회전 준비), 다른손으로는 femur의 안쪽 밑을 감싸서 고정시킨다.
   ankle을 잡은 손을 약간 내회전시키면서, knee joint를 abduction(내전)시켜서 외측측부인대에 자극을 준다.
 
-  ![](http://cfile3.uf.tistory.com/image/9985D4336024B0291BA4C8)
-  ![](http://cfile23.uf.tistory.com/image/999D94376024B03B1BA764)
-  ![](http://cfile22.uf.tistory.com/image/995EEC346024B1E41B4541)
+  ![](https://user-images.githubusercontent.com/54255124/107912459-dfcb6a00-6fa1-11eb-8e61-2faedb887553.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912463-e0fc9700-6fa1-11eb-8b0e-7aae9cbc7068.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912467-e22dc400-6fa1-11eb-8d9a-08f2901f09de.png)
 
 
 
@@ -127,9 +128,9 @@ toc: true
   환자에게 대퇴사두근이 힘이 수축되도록 "**무릎을 쎄게 펴보세요~**"를 주문한다.
   -> **무릎앞쪽에 통증이** 있다면, **무릎연골연화증 or 슬개대퇴 동통 증후군**
 
-  ![](http://cfile24.uf.tistory.com/image/99149B456027443E0E7F3D)
-  ![](http://cfile5.uf.tistory.com/image/9930B535602744690E58B0)
-  ![](http://cfile26.uf.tistory.com/image/99864F48602744D70EE493)
+  ![](https://user-images.githubusercontent.com/54255124/107912472-e35ef100-6fa1-11eb-81c6-18d834fd9ab4.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912536-025d8300-6fa2-11eb-96d6-cdf47d6e581c.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912537-04274680-6fa2-11eb-8e45-1f74978305ce.png)
 
 
 
@@ -155,13 +156,15 @@ toc: true
   무릎을 잡은 손바닥으로 안쪽검사를 위해 knee 외전(valus strees)을 약간 준 뒤 다시 감싸잡는다.
   종골을 잡은 손바닥으로 환자 발바닥을 지지하면서 안쪽으로 발목을 잡아 tibia를 약간 외회전 준다.
 
-  마지막으로 외전+외회전을 유지한 상태에서 무릎을 편다![](http://cfile9.uf.tistory.com/image/9929DC37602748FE0E276A)
-  ![](http://cfile10.uf.tistory.com/image/9933AB35602749340EAB1F)
-  ![](http://cfile1.uf.tistory.com/image/994E85426027497E0E5804)
-  ![](http://cfile28.uf.tistory.com/image/9953BD44602749890F92FC)
-  ![](http://cfile24.uf.tistory.com/image/9933BF35602749B90E59A4)
-  ![](http://cfile8.uf.tistory.com/image/994F7142602749C30E3EB5)
-
+  마지막으로 외전+외회전을 유지한 상태에서 무릎을 편다
+  
+  ![](https://user-images.githubusercontent.com/54255124/107912542-05587380-6fa2-11eb-9350-afdf40dbe906.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912545-0689a080-6fa2-11eb-8d18-95fcd12ea3a6.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912551-08536400-6fa2-11eb-8eab-34064bf3c6e7.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912577-1903da00-6fa2-11eb-8a56-e1d91d21169d.png)
+![](https://user-images.githubusercontent.com/54255124/107912581-1a350700-6fa2-11eb-8aee-92c8b5213848.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912583-1b663400-6fa2-11eb-99a0-07fa271f9f43.png)
+  
   
 
 
@@ -171,11 +174,11 @@ toc: true
   내회전을 위해 바깥쪽에서 환자의 발목을 잡아 내회전을 약간 만들어준 뒤,
   천천히 knee extension 시킨다.
 
-  ![](http://cfile7.uf.tistory.com/image/9953E24460274A780F91D6)
-  ![](http://cfile26.uf.tistory.com/image/990F054660274AA00F44AC)
-  ![](http://cfile28.uf.tistory.com/image/993AC84360274AAF0E9A82)
-  ![](http://cfile29.uf.tistory.com/image/990F0A4660274AC70FF7FD)
-  ![](http://cfile4.uf.tistory.com/image/993ACE4360274AD40E1593)
+  ![](https://user-images.githubusercontent.com/54255124/107912588-1c976100-6fa2-11eb-8223-642c0282762b.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912589-1dc88e00-6fa2-11eb-82fe-28416355f9ca.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912632-2faa3100-6fa2-11eb-8db0-f79de0663430.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912635-30db5e00-6fa2-11eb-9455-fa4e46254630.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912637-320c8b00-6fa2-11eb-94a2-c75fca20d009.png)
 
 
 

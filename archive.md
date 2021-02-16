@@ -1,7 +1,7 @@
 ---
 layout: page
 current: archive
-title: All Posts
+title: 시간 순으로 글 목록 !
 navigation: true
 logo: 
 class: page-template

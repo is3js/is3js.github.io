@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 경추-이학적검사  
 date: 2021-02-09 16:40:00
-tags: [tingstyle1, 이학적검사, 신경검사, 경추] 
+tags: [경추, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -22,7 +22,7 @@ toc: true
   - 어르신들 같은 경우 애매할 때가 있으니, 이것 가지고 안된다.
     - [출저](https://youtu.be/q_4gpNizwPg)
 
-![](http://cfile8.uf.tistory.com/image/99546B35601B642D16B968)
+![](https://user-images.githubusercontent.com/54255124/107869659-d1af1800-6ed3-11eb-9f2d-92f16164e7c4.png)
 
 
 
@@ -56,7 +56,7 @@ toc: true
 
   - 이미 고열이 발생하여 한의원, 한방병원에 오지 않을 가능성이 높다.
 
-  ![](http://cfile22.uf.tistory.com/image/99812036601B686917B09C)
+  ![](https://user-images.githubusercontent.com/54255124/107869661-d5429f00-6ed3-11eb-8446-b48beee64f0b.png)
 
 
 
@@ -71,11 +71,13 @@ toc: true
   - SLR test는 다리를 편상태에서 올린 것만 다르며 똑같은 검사나 마찬가지다. Nerve root에서 나온 신경을 들고 있는 다리 방향으로 쭉 당겨준다.
   - 고관절 굴곡시 좌골신경을 통해 수막이 말초방향으로 견인되어, 수막자극 상태라면 통증이 유발된다.
 
-  ![](http://cfile30.uf.tistory.com/image/993B5648601B6C6B197C74)![](http://cfile7.uf.tistory.com/image/99810136601B6C80188DF2)
-
-  ![](http://cfile27.uf.tistory.com/image/99A99933601B6C8B187DC8)![](http://cfile25.uf.tistory.com/image/993B6248601B6C96190ACE)
-
-  ![](http://cfile7.uf.tistory.com/image/992FC53A601B6D181951CF)
+  ![image](https://user-images.githubusercontent.com/54255124/108031711-a9125400-7074-11eb-9baa-49c0c26de0a4.png)
+![](https://user-images.githubusercontent.com/54255124/107869662-d7a4f900-6ed3-11eb-976c-49a7df9b0c8d.png)
+  
+![image](https://user-images.githubusercontent.com/54255124/108031835-d9f28900-7074-11eb-8fc4-aca79dd53caa.png)
+  ![](https://user-images.githubusercontent.com/54255124/107869663-da075300-6ed3-11eb-8104-616c24451f85.png)
+  
+  ![](https://user-images.githubusercontent.com/54255124/107869669-dbd11680-6ed3-11eb-8c5c-95aa4d6f9428.png)
 
 
 
@@ -96,7 +98,7 @@ toc: true
 
   - 스퍼링과 다르게 통증을 경감시키는 검사
 
-  ![](http://cfile3.uf.tistory.com/image/99A69133601B73F41BB0C9)
+  ![](https://user-images.githubusercontent.com/54255124/107869682-fe632f80-6ed3-11eb-8501-792bdac8bacb.png)
 
 
 
@@ -104,8 +106,8 @@ toc: true
 
 - 한손으로는 후두골 + 한손으로는 턱을 잡아 목을 뽑아줄 때 편해진다.
   - 손바닥을 mastoid proc.에 두고 서울구경 시키는 방법도 있다.
-    ![](http://cfile5.uf.tistory.com/image/99A9E833601B74951AB69B)
-    ![](http://cfile7.uf.tistory.com/image/993CBD48601B74651BDF03)
+    ![](https://user-images.githubusercontent.com/54255124/107869683-015e2000-6ed4-11eb-9c89-d7ea967f6762.png)
+    ![](https://user-images.githubusercontent.com/54255124/107869685-04591080-6ed4-11eb-80ee-272db8011f90.png)
 
 
 
@@ -120,7 +122,7 @@ toc: true
   - 소흉근증후군
   - 경늑골증후군
   - 늑쇄증후군
-    ![](http://cfile2.uf.tistory.com/image/99EB9B48601CAEA01C2116)
+    ![](https://user-images.githubusercontent.com/54255124/107869687-0622d400-6ed4-11eb-9531-e683880eef5f.png)
     [출저](https://www.youtube.com/watch?v=XEWO_cFy5YI)
 
 
@@ -136,13 +138,13 @@ toc: true
 ### Adson test for 전사각근>소흉근>...
 
 - 한쪽팔을 20~40도 외전시킨 상태에서, 팔을 약간 뒤쪽으로 외회전 된 느낌으로 요골동맥을 잡는다.
-  ![](http://cfile8.uf.tistory.com/image/99A71033601B76921B72F6)
+  ![](https://user-images.githubusercontent.com/54255124/107869689-07ec9780-6ed4-11eb-99eb-0cc1faa3f40d.png)
 - 한손으로 환자의 목을 약간 과신전시킨 뒤
-  ![](http://cfile4.uf.tistory.com/image/997BCD36601B76BD1C7F23)
+  ![](https://user-images.githubusercontent.com/54255124/107869718-4da96000-6ed4-11eb-9f85-6f7ec23dc7eb.png)
 - 반대쪽으로 회전시키면, reverse adson test
-  ![](http://cfile5.uf.tistory.com/image/99A73633601B76D81BBA38)
+  ![](https://user-images.githubusercontent.com/54255124/107869720-4eda8d00-6ed4-11eb-9b65-f85ee003db32.png)
 - 요골동맥쪽으로 회전시키면, adson test -> radial art.가 좁아진 상태다. 
-  ![](http://cfile1.uf.tistory.com/image/9952F535601B77011BC2A6)
+  ![](https://user-images.githubusercontent.com/54255124/107869722-513ce700-6ed4-11eb-9ce6-fe30703b610d.png)
 
 
 
@@ -152,8 +154,8 @@ toc: true
 
 - adson test처럼 팔을 20~40도 외전 + 약간 몸뒤쪽으로 외회전 + 요골동맥 잡은 상태에서
   삼각근을 한손으로 잡고 쭉 외전시켜준다. -> **소흉근에 걸리게 하여 맥박이 감소하면 소흉근 증후군**
-  ![출저:https://www.researchgate.net/figure/Wrights-hyperabduction-test-compresses-the-brachial-plexus-as-it-passes-through-the_fig2_255980769](http://cfile26.uf.tistory.com/image/991FFB46601B7B9F1E684E)
-  ![](http://cfile9.uf.tistory.com/image/99F80545601B7B1D1DD1C0)
+  ![출저:https://www.researchgate.net/figure/Wrights-hyperabduction-test-compresses-the-brachial-plexus-as-it-passes-through-the_fig2_255980769](https://user-images.githubusercontent.com/54255124/107869723-5306aa80-6ed4-11eb-8bf0-b6ae54cef179.png)
+  ![](https://user-images.githubusercontent.com/54255124/107869727-54d06e00-6ed4-11eb-8d78-3c9190d48048.png)
 
 
 
@@ -161,7 +163,7 @@ toc: true
 
 - 양팔을 팔꿈치를 90도로 고정시킨 체 ㄴ자로 올린 상태에서, 3분동안 주먹을 쥐었다폈다 한다.
 
-  ![](http://cfile1.uf.tistory.com/image/99E0F437601CADC41A4543)
+  ![](https://user-images.githubusercontent.com/54255124/107869774-16877e80-6ed5-11eb-8f84-e97fd929faff.png)
 
 
 
@@ -173,11 +175,11 @@ toc: true
   1분 동안, 환자 뒤에서 scapular를 뒤로 빼주고 -> 아래로 눌러준다.
 
   - scapluar retraction
-    ![](http://cfile7.uf.tistory.com/image/99F5303A601CAF871AB8BC)
-    ![](http://cfile30.uf.tistory.com/image/99E23F37601CAF931A6896)
+    ![](https://user-images.githubusercontent.com/54255124/107869776-18e9d880-6ed5-11eb-8ad4-1b9bfb61c3e8.png)
+    ![](https://user-images.githubusercontent.com/54255124/107869777-1e472300-6ed5-11eb-80a6-29faff85f0b5.png)
 
   - scapular depression
-    ![](http://cfile28.uf.tistory.com/image/99199E34601CAFA11A9974)
+    ![](https://user-images.githubusercontent.com/54255124/107869779-2010e680-6ed5-11eb-99e9-e9216ae5fe9e.png)
 
 
 

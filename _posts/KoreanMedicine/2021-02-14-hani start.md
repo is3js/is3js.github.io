@@ -5,7 +5,7 @@ cover:  assets/built/images/hani-logo.jpg
 navigation: True
 title: 블로그 시작 
 date: 2021-02-03 16:40:00
-tags: [김석영,IT, Rehab, 부인과] 
+tags: [Rehab, 부인과] 
 class: post-template 
 subclass: 'post tag-python' 
 author: daisykim88 

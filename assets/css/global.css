@@ -410,8 +410,9 @@ blockquote cite a {
     font-weight: normal;
 }
 
+/*my) a태그1 들 전부 갈색으로 맞추자.*/
 a {
-    color: color(var(--blue) l(-5%));
+    color: #bd8e8e;
     text-decoration: none;
 }
 
@@ -489,3 +490,7 @@ h6 {
         width: 100%;
     }
 }
+
+/*a태그2 기본 색깔*/
+/*a만 커스텀하면,, post.html 상단의 날짜/ 태그 중 태그들 색 적용된다.*/
+a{color: #bd8e8e;text-decoration:none}

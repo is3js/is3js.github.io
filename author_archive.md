@@ -1,7 +1,7 @@
 ---
 layout: page
 current: archive
-title: All Tags
+title: 태그로 선택해서 보자!
 navigation: true
 logo: 
 class: page-template
@@ -23,14 +23,18 @@ subclass: 'post page'
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 	<article>
 	<!--각 태그명-->
-	<h3 id="{{ this_word }}" class="tag-heading">{{ this_word | upcase }}</h3>
-		<ul>
-		    <!--태그별 글 리스트-->
+	<h3 id="{{ this_word }}" class="tag">{{ this_word | upcase }}</h3>
+        <!--태그별 글 리스트-->
+        <ul>	        
             {% for post in site.tags[this_word] %}{% if post.title != null %}
-              <!-- <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title }}</a></li> -->
-              <li class="entry-title"><a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{ post.title }}</a></li>
+              <!--각 글 li 시작-->  
+              <li class="entry-title">
+                <a href="{{ post.url }}" target="_self" title="{{ post.title }}">
+                [{{ post.date | date: '%Y-%m-%d' }}] {{ post.title }} by {% if post.author == "tingstyle1" %}🧑🏻{% else %}👧🏻{% endif %}
+                </a>
+            </li>
             {% endif %}{% endfor %}
-		</ul>
+        </ul>
 	</article><!-- /.hentry -->
 {% endunless %}{% endfor %}
 </div>

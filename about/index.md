@@ -7,8 +7,7 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
-travis 사용중
----
+
 조재성입니다.
 
 - 남해고등학교 졸업

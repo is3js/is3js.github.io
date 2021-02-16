@@ -57,9 +57,13 @@ body {
     min-height: 100vh;
 }
 
+/*my) 인덱스 아래쪽 화면의 배경*/
 .site-main {
     z-index: 100;
     flex-grow: 1;
+    background-color: #FFBDBB;
+    /*background: rgba(254, 186, 183,0.18);!*.site-header:before my) 메인화면 outer위쪽부분에 원본그림+불투명도 0.18인데 ff6각으로는 표현안되서 rgb+불투명도로 대체, 아래도 똑같이 조절*!*/
+
 }
 
 /* Full width page blocks */
@@ -114,6 +118,7 @@ body {
     background-size: cover;
 }
 
+/*my) 인덱스 윗부분 */
 .site-header:before {
     content: "";
     position: absolute;
@@ -123,10 +128,12 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(0,0,0,0.18);
+    /*background: rgba(0,0,0,0.18);*/
 }
 
+/*my) 클릭후 네비2 메뉴*/
 .site-header:after {
+    font-size:1.6rem;
     content: "";
     position: absolute;
     top: 0;
@@ -136,12 +143,16 @@ body {
     z-index: 10;
     display: block;
     height: 80px;
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0));
+    background: #FFBDBB;
+            /*linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0));*/
 }
 
 .site-header.no-cover:before,
 .site-header.no-cover:after {
-    display: none;
+    /*my) 저자페이지만 따로, 네비2의 글자만 이용하고, 배경은 이용안하고, display:none으로 깔아버려서 검정색으로 나왔던 곳*/
+    background: #FFBDBB;
+    /*display: none;*/
+
 }
 
 .site-header-content {
@@ -164,18 +175,20 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 35px;
 }
 
+/*my) 인덱스 로고 밑에 설명글*/
 .site-description {
     z-index: 10;
     margin: 0;
     padding: 5px 0;
-    font-size: 2.2rem;
+    font-size: 1.2rem;
     font-weight: bold;
     letter-spacing: 0.5px;
-    opacity: 0.8;
+    opacity: 0.4;
     font-family: inherit;
+
 }
 
 @media (max-width: 500px) {
@@ -261,15 +274,17 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 /* my */
-/* 네비 메뉴 폰트 설정*/
+/* 네비1 메뉴 폰트 설정*/
 .nav li a {
     display: block;
     margin: 0px;
     padding: 10px 12px;
-    color: rgba(255, 255, 255, 0.93);
-    opacity: 0.8;
+    color: #342626; /*메인에서 메뉴 색깔*/
+            /*rgba(255, 255, 255, 0.93);*/
+    opacity: 0.7;
     font-weight: bold; /*내가 넣어준 것*/
-    font-size: large; /*이모지로 바꿔서 medium -> large -> small 구독(검색)버튼처럼 border 넣어주기 위해 다시 SEARHCH랑 동일한 크기로 조절 */
+    font-size: 1.5rem; /*이모지로 바꿔서 medium -> large -> small 구독(검색)버튼처럼 border 넣어주기 위해 다시 SEARHCH랑 동일한 크기로 조절 */
+    /*1rem=10px, 2rem=20px*/
     font-family: inherit;
 
     /*padding: 4px 10px;*/
@@ -600,8 +615,9 @@ The first (most recent) post in the list is styled to be bigger than the others 
     text-transform: uppercase;
 }
 
+/*my) post.html 상단 태그 중 날짜 글자 색*/
 .post-full-meta-date {
-    color: var(--blue);
+    color: #342626;
 }
 
 .post-full-title {
@@ -1617,9 +1633,15 @@ Usage (In Ghost editor):
     flex-shrink: 0;
     margin: 5px 0 10px 0;
     max-width: 600px;
-    font-size: 2rem;
+
+    /*my) 저자설명란, 글자 크기 2->1.6rem으로 줄이고, 색깔도 줌*/
+    font-size: 1.4rem;
+    font-weight: bold;
+    font-family: inherit;
+    color : #342626;
+
     line-height: 1.3em;
-    font-weight: 300;
+
     letter-spacing: 0.5px;
     opacity: 0.8;
 }

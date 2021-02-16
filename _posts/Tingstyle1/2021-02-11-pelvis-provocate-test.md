@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 골반-이학적검사  
 date: 2021-02-11 16:40:00
-tags: [조재성, 이학적검사, 골반] 
+tags: [골반, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -36,9 +36,9 @@ toc: true
     - 상위 요추(L2, 3)도 앞쪽으로 나타나지만, 대부분 허리 문제는 뒤쪽으로 나타난다.
   - **뒤쪽 천장관절**쪽에 통증 -> SI joint **천장관절**의 문제
 
-  ![](http://cfile2.uf.tistory.com/image/991E333A6021F2FF13EBE6)
-  ![](http://cfile29.uf.tistory.com/image/99DF2E436021F375121D12)
-  ![](http://cfile23.uf.tistory.com/image/992C38486021F3CA139182)
+  ![](https://user-images.githubusercontent.com/54255124/107911956-ead1ca80-6fa0-11eb-8901-7ab740dfbf98.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911957-ec9b8e00-6fa0-11eb-9125-7ecac93b3a76.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911960-ee655180-6fa0-11eb-8555-66c5674dd44b.png)
 
 
 
@@ -62,15 +62,15 @@ toc: true
   - 대퇴가 bed보다 떠있따면, 장요근 단축이다. -> 무릎을 꾹 눌러서 알려준다.
   - 소퇴가 중력방향으로 서있지 않고 떠있으면, 대퇴직근 단축이다 -> 소퇴를 90도로 굴곡시켜 중력방향으로 만들어주면서 알려준다.
 
-  ![](http://cfile26.uf.tistory.com/image/991F9C3A6021F65E133D76)
-  ![](http://cfile27.uf.tistory.com/image/99A234336021F670137788)
-  ![](http://cfile2.uf.tistory.com/image/99224A466021F686130BB7)
-  ![](http://cfile29.uf.tistory.com/image/9938F1446021F6BB12784C)
-  ![](http://cfile24.uf.tistory.com/image/9997DB376021F6CA1363A6)
-  ![](http://cfile10.uf.tistory.com/image/9938FB446021F70912E87B)
-  ![](http://cfile25.uf.tistory.com/image/992DA5486021F75513CFBC)
-  ![](http://cfile10.uf.tistory.com/image/99A265336021F7A0131A9E)
-  ![](http://cfile2.uf.tistory.com/image/99A26A336021F7F713A916)
+  ![](https://user-images.githubusercontent.com/54255124/107911963-ef967e80-6fa0-11eb-8fef-69d1db3dc3d5.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911969-f1604200-6fa0-11eb-9094-76cb9e2c8c77.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911992-ff15c780-6fa0-11eb-89bd-d7d83577770e.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911995-00df8b00-6fa1-11eb-8620-1c4b3825cf88.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911997-0210b800-6fa1-11eb-804a-9888d6d671e0.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912000-03da7b80-6fa1-11eb-989b-e20af2ac8763.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912011-0937c600-6fa1-11eb-9aee-16d4d4db0aef.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912044-18b70f00-6fa1-11eb-9563-d358285a1670.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912047-19e83c00-6fa1-11eb-9b42-e629311e41ee.png)
 
 
 
@@ -81,7 +81,7 @@ toc: true
 ## 대퇴근막장근, 장경인대 단축
 
 - 대퇴근막장근, 장경인대의 단축을 보는 검사
-  ![](http://cfile5.uf.tistory.com/image/99F9C14860235683118C7D)
+  ![](https://user-images.githubusercontent.com/54255124/107912052-1b196900-6fa1-11eb-8925-4cf8521793b0.png)
 
 ### [Ober test](https://www.youtube.com/watch?v=ydO-_gc1yWo)(오베르, 오버 테스트)
 
@@ -97,10 +97,12 @@ toc: true
   이제 무릎을 든 주동수로 knee를 침대 **가장자리 아래쪽으로** 천천히 내리면서 hip adduction시킨다.
   -> 만약, 무릎이 자연스럽게 안내려가면, TFL, 장경인대 단축
 
-  -> **소둔근, 대퇴근막장근, 장경인대 등을 침치료**해서 떨어지도록 만든다.![](http://cfile21.uf.tistory.com/image/99C2213460235D0711764B)
-  ![](http://cfile30.uf.tistory.com/image/99D0BF3760235D34116085)
-  ![](http://cfile28.uf.tistory.com/image/99FB634860235D9312E7FB)
-  ![](http://cfile27.uf.tistory.com/image/998A3E4560235DCC114A38)
+  -> **소둔근, 대퇴근막장근, 장경인대 등을 침치료**해서 떨어지도록 만든다.
+  
+  ![](https://user-images.githubusercontent.com/54255124/107912056-1ce32c80-6fa1-11eb-8395-f991230b5f4e.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912062-1e145980-6fa1-11eb-8c6a-2732ea098bb0.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912099-32585680-6fa1-11eb-84bd-100cf02f3434.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912105-34221a00-6fa1-11eb-8e3d-29bdf3ca5459.png)
 
 
 
@@ -119,7 +121,9 @@ toc: true
   보조수로는 hip joint위쪽을 고정하고 주동수로 무릎을 침대 밑으로 누른다.
   더 강력하게 하려면, 다리로 내려온 무릎을 고정시키고, 
   보조수로는 sacrum을 고정하고, 주동수로는 무릎위쪽을 눌러서 이상근을 강력하게 스트레칭 시킨다.
-  -> 좌골신경통이 유발되면, 이상근 증후군 양성![](http://cfile8.uf.tistory.com/image/99FA5D43602361AB1242DA)
-  ![](http://cfile28.uf.tistory.com/image/99C5923360236399122C45)
-  ![](http://cfile29.uf.tistory.com/image/99D14037602363DF129C97)
+  -> 좌골신경통이 유발되면, 이상근 증후군 양성
+  
+  ![](https://user-images.githubusercontent.com/54255124/107912109-35534700-6fa1-11eb-9622-cbe1c99907cd.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912112-371d0a80-6fa1-11eb-9ca7-5e5a21e36b7a.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912114-384e3780-6fa1-11eb-838b-8c48a3641dc0.png)
 

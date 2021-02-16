@@ -1,11 +1,12 @@
 ---
+
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 어깨-이학적검사  
 date: 2021-02-12 16:40:00
-tags: [조재성, 이학적검사, 어깨] 
+tags: [어깨, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -20,12 +21,12 @@ toc: true
   환자는 검사할 팔을 앞으로 내고, 엄지를 아래쪽으로 향하도록 한 뒤(pronate), 팔꿈치를 펴고 검사자는 수동적으로 환자의 팔을 가능한 범위내까지 쭉 올려본다.(forward flex) 
 
   - coracoacromial arch에 rotator cuff가 걸리는 것을 유발하는데, 아프다고 하면 충돌 증후군 
-    ![](http://cfile8.uf.tistory.com/image/99B03B36601CB9AE1D929C)
+    ![](https://user-images.githubusercontent.com/54255124/107869780-21daaa00-6ed5-11eb-8373-3b122fd9d47b.png)
     [그림출저](https://quizlet.com/120718787/shoulder-oians-flash-cards/)
 
-    ![](http://cfile25.uf.tistory.com/image/99F1863A601CB8071C1596)
-    ![](http://cfile26.uf.tistory.com/image/99E5F842601CB8DD1D4AD5)
-    ![](http://cfile21.uf.tistory.com/image/99195834601CB8FE1C0ABD)
+    ![](https://user-images.githubusercontent.com/54255124/107909713-2d44d880-6f9c-11eb-8de7-6b092035d18c.png)
+    ![](https://user-images.githubusercontent.com/54255124/107909721-32098c80-6f9c-11eb-99fb-86d3f43b6eb7.png)
+    ![](https://user-images.githubusercontent.com/54255124/107909733-37ff6d80-6f9c-11eb-93f3-e679b57835a8.png)
 
 
 
@@ -38,9 +39,9 @@ toc: true
 
   - 팔을 내회전 시켜 통증이 유발되면, 충돌증후군이다.
 
-  ![](http://cfile4.uf.tistory.com/image/9910A145601CBD091E23CE)
-  ![](http://cfile7.uf.tistory.com/image/99ED2E48601CBD491FF3C5)
-  ![](http://cfile21.uf.tistory.com/image/995B4D35601CBD571E9DC5)
+  ![](https://user-images.githubusercontent.com/54255124/107909737-39309a80-6f9c-11eb-9708-2a7e7d4f0c63.png)
+  ![](https://user-images.githubusercontent.com/54255124/107909741-3b92f480-6f9c-11eb-9511-c81429212182.png)
+  ![](https://user-images.githubusercontent.com/54255124/107909779-52394b80-6f9c-11eb-86d4-c48f7c2297fb.png)
 
 
 
@@ -71,9 +72,9 @@ toc: true
 
   - 팔이 뚝 떨어지거나, 통증이 있으면 극상근 문제
 
-  ![](http://cfile4.uf.tistory.com/image/9919E446601CC04120B67B)
-  ![](http://cfile26.uf.tistory.com/image/9919F434601CC0591E4C57)
-  ![](http://cfile29.uf.tistory.com/image/99944D43601CC06F1E220C)
+  ![](https://user-images.githubusercontent.com/54255124/107909791-582f2c80-6f9c-11eb-9529-f12b7ee15b43.png)
+  ![](https://user-images.githubusercontent.com/54255124/107909795-5a918680-6f9c-11eb-88d3-7c1bb8999d68.png)
+  ![](https://user-images.githubusercontent.com/54255124/107909796-5c5b4a00-6f9c-11eb-806d-1cd7d33419f8.png)
 
 
 
@@ -82,10 +83,13 @@ toc: true
 ### [Drop arm test](https://www.youtube.com/watch?v=gs1n8dBKeLQ&t=259s)
 
 - 양성이라면, 완전파열이나 massive tear일 확률이 높아진다.
+  
   - 근데, 민감도가 27로 낮은편이다. 민감하게 못 잡아냄..
 - 90도 이상까지 팔을 같이 들면서 외전시켜준 뒤,
-  손을 약간뗴고 "천천히 내려보세요~"  한다 -> 갑자기 툭 떨어지면 양성![](http://cfile10.uf.tistory.com/image/99178846601CC22321698E)
-  ![](http://cfile26.uf.tistory.com/image/99EBA848601CC232210890)
+  손을 약간뗴고 "천천히 내려보세요~"  한다 -> 갑자기 툭 떨어지면 양성
+  
+  ![](https://user-images.githubusercontent.com/54255124/107909799-5e250d80-6f9c-11eb-8661-fc2a6ce8e350.png)
+  ![](https://user-images.githubusercontent.com/54255124/107909995-d4c20b00-6f9c-11eb-909a-5353b63b0a41.png)
 
 
 
@@ -107,8 +111,8 @@ toc: true
 
 - 환자의 손등이 요추의 중앙에 닿도록 자세를 잡게 한다.(내회전 기본자세)
   환자의 손바닥을 누른체로 "**등에서 손을 떼보세요~**"하면서 저항을 준다.
-  환자의 손등을 띄워서 더 내회전을 극대화 시키는 방법(lift-off)![](http://cfile10.uf.tistory.com/image/9992E843601CCB76229CD7)
-  ![](http://cfile29.uf.tistory.com/image/99797533601CCC8721278A)
+  환자의 손등을 띄워서 더 내회전을 극대화 시키는 방법(lift-off)![](https://user-images.githubusercontent.com/54255124/107910100-033fe600-6f9d-11eb-93e5-8219d55b290d.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910104-0509a980-6f9d-11eb-9c5b-1ce1b59e047e.png)
 
 
 
@@ -117,8 +121,8 @@ toc: true
 ### [Internal rotation lag test](https://www.youtube.com/watch?v=FbxrdmtjwN8)
 
 - Lift-off와 비슷하지만, 미리 내회전을 최대화 시킨 상태에서 "**(팔꿈치만 잡아준 상태에서) 버텨보세요**"하는 것이다.
-  만약 못버티고 등쪽으로 손등이 붙는다면, 내회전근육인 견갑하근의 파열 의심![](http://cfile3.uf.tistory.com/image/995C0C35601CCD3322EFC6)
-  ![](http://cfile27.uf.tistory.com/image/99177D46601CCD5E25EC03)
+  만약 못버티고 등쪽으로 손등이 붙는다면, 내회전근육인 견갑하근의 파열 의심![](https://user-images.githubusercontent.com/54255124/107910106-076c0380-6f9d-11eb-82db-5698e14f1624.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910108-0935c700-6f9d-11eb-9420-e30646471cf9.png)
 
 
 
@@ -138,8 +142,8 @@ toc: true
 
   - 통증을 느끼면, **극하근, 소원근으로 외회전**할 때 문제가 생긴 것.
 
-  ![](http://cfile28.uf.tistory.com/image/99793433601CC45F1FC454)
-  ![](http://cfile2.uf.tistory.com/image/99143745601CC4B420034F)
+  ![](https://user-images.githubusercontent.com/54255124/107910115-0b982100-6f9d-11eb-8623-8b20ff64cdff.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910162-2b2f4980-6f9d-11eb-970a-427d03e49b2a.png)
 
 
 
@@ -149,9 +153,9 @@ toc: true
   90외전/팔꿉치90굴곡상태에서/ **미리 외회전을 최대로 다 시켜놓은 상태에서**
   힘주세요가 아니라 ""**(외회전된 상태를)버텨보세요~**"" 라고 한다.
 
-  -> **만약 못버티고 내회전하려고 한다면, 극하근, 소원근의 파열을 의심**한다.![](http://cfile8.uf.tistory.com/image/991A0746601CC5F122F38A)
-  ![](http://cfile24.uf.tistory.com/image/9994A443601CC9DB216B47)
-  ![](http://cfile3.uf.tistory.com/image/99109845601CC9F4226DCE)
+  -> **만약 못버티고 내회전하려고 한다면, 극하근, 소원근의 파열을 의심**한다.![](https://user-images.githubusercontent.com/54255124/107910167-2ec2d080-6f9d-11eb-96fe-df1cdffe4a51.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910172-31252a80-6f9d-11eb-954e-e68baa421149.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910177-33878480-6f9d-11eb-9555-3f7284892cb5.png)
 
 
 
@@ -176,11 +180,11 @@ toc: true
   "**이렇게 돌려보실까요~** 하면서 **작용에 저항**을 준다.
   ->  통증시 전완을 외회전 시키는 biceps의 long head의 tendinitis를 의심할 수 있다.
 
-  ![](http://cfile9.uf.tistory.com/image/99B6B03A601E1A7F114C12)![](http://cfile30.uf.tistory.com/image/99B2453A601E1B04122FB8)
-  ![](http://cfile3.uf.tistory.com/image/99C8B536601E1B16119CEC)
-  ![](http://cfile21.uf.tistory.com/image/99581443601E1B20118BC4)
-  ![](http://cfile30.uf.tistory.com/image/99F9D242601E1B30118121)
-  ![](http://cfile3.uf.tistory.com/image/99B7AF3A601E1B47119FF8)
+  ![](http://cfile9.uf.tistory.com/image/99B6B03A601E1A7F114C12)![](https://user-images.githubusercontent.com/54255124/107910184-35e9de80-6f9d-11eb-8d75-10f8892df6d6.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910191-3a15fc00-6f9d-11eb-8297-8c94b874ac94.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910194-3d10ec80-6f9d-11eb-9cf1-6d82cb60113c.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910199-400bdd00-6f9d-11eb-953d-29a21d8c9cbc.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910200-426e3700-6f9d-11eb-9f18-3ce5162bb223.png)
 
 
 
@@ -191,7 +195,8 @@ toc: true
 - 앉은 상태의 환자에게 손바닥(전완-회외전)을 하늘을 보게 한 뒤, 견관절을 90도 flexion하여 수평을 유지 한 상태에서 
   검사자는 한손은 bicipital groove, 한손은 손바닥으로 손목에 데고. 아래로 저항을 주면서
 
-  환자에게는 "**버텨보세요~**"시킨다.![](http://cfile6.uf.tistory.com/image/992C7A33601E1D3F11695F)
+  환자에게는 "**버텨보세요~**"시킨다.
+  ![](https://user-images.githubusercontent.com/54255124/107911112-266b9500-6f9f-11eb-8dfd-e72e1975f1e2.png)
 
 
 
@@ -210,20 +215,21 @@ toc: true
   검사자는 환자 뒤에서 손목을 감싸쥐고, 한손으로 견관절을 전방으로 당길준비를 한다.
   -> **빠질 것 같다는 불안감을 호소 하는 경우, 양성으로 견관절 앞쪽의 인대 및 힘줄이 약해져 있다는 뜻이다.**
 
-  - 앉아서 하는 경우, 뒤에서 견관절을 앞으로 밀어 shoulder capsule등 이 있는 shoulder join를 스트레칭 시킨다.![](http://cfile26.uf.tistory.com/image/99940C48601E20DF1242CF)
-    ![](http://cfile10.uf.tistory.com/image/990A9B46601E20F312FC3E)
-
+  - 앉아서 하는 경우, 뒤에서 견관절을 앞으로 밀어 shoulder capsule등 이 있는 shoulder join를 스트레칭 시킨다.
+    ![](https://user-images.githubusercontent.com/54255124/107911150-37b4a180-6f9f-11eb-9786-ddf1e9093376.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910684-3df64e00-6f9e-11eb-8fa6-b59d2b362c8a.png)
   
 
-  - 누워서 하는 경우, 상완 뒤쪽을 받치고, 한손으로 팔을 바닥쪽으로 외회전시켜 통증이 오는지 살펴본다.![](http://cfile23.uf.tistory.com/image/99577143601E212712C192)
-    ![](http://cfile7.uf.tistory.com/image/99942E48601E213A123843)
-
+  
+  - 누워서 하는 경우, 상완 뒤쪽을 받치고, 한손으로 팔을 바닥쪽으로 외회전시켜 통증이 오는지 살펴본다.![](https://user-images.githubusercontent.com/54255124/107910691-40f13e80-6f9e-11eb-8c57-9a4215ebb204.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910698-43ec2f00-6f9e-11eb-9f87-445a39d0afed.png)
+  
    
 
 ## 어깨 관절와순(Labral Disorder)
 
 - 야구선수, 수영선수분들이 많이 오는 손상으로서, **SLAP(Superior Laburm Anterior to Posterior)**이 있다. 견관절 관절와순의 위쪽 오목 테두리와 biceps long head 부착부의 복합손상을 의미한다.
-  ![](http://cfile28.uf.tistory.com/image/99904548601E281514A709)
+  ![](https://user-images.githubusercontent.com/54255124/107910700-45b5f280-6f9e-11eb-9d80-96c4340b828d.png)
   [출저](http://blog.naver.com/PostView.nhn?blogId=ishealthlife&logNo=221285533078&parentCategoryNo=&categoryNo=82&viewDate=&isShowPopularPosts=true&from=search)
 
 
@@ -241,10 +247,10 @@ toc: true
   -> **1번**에서는 **통증**을 **2번**에서는 **통증감소**가 나타나면 **양성으로 SLAP병변(관절와순 손상)**
   -> **1번, 2번 모두 통증**시 **회전근개 손상**
 
-  ![](http://cfile21.uf.tistory.com/image/992CAC33601E2A5713B8AB)
-  ![](http://cfile2.uf.tistory.com/image/99CB4F36601E2A681303CE)
-  ![](http://cfile29.uf.tistory.com/image/99073544601E2A83135609)
-  ![](http://cfile4.uf.tistory.com/image/998F6D48601E2A9E158B16)
+  ![](https://user-images.githubusercontent.com/54255124/107910734-50708780-6f9e-11eb-9b4a-62379cd5e032.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910744-55cdd200-6f9e-11eb-91ba-fbee2ee17ba9.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910755-5b2b1c80-6f9e-11eb-9eaf-9f458071452d.png)
+  ![](https://user-images.githubusercontent.com/54255124/107910774-65e5b180-6f9e-11eb-96ef-198eb1550fd5.png)
 
 
 
@@ -252,7 +258,7 @@ toc: true
 
 ## AC(Acromioclavicular) joint 검사 
 
-![](http://cfile23.uf.tistory.com/image/993D2835601F6B6C160868)
+![](https://user-images.githubusercontent.com/54255124/107910777-68e0a200-6f9e-11eb-976f-ac550b599866.png)
 [출저](https://blog.naver.com/hyjk95/222222964840)
 
 ### [apply scarf test(수평 내전 검사, cross body test)](https://www.youtube.com/watch?v=DKLvt816x6o)
@@ -261,6 +267,6 @@ toc: true
   들고, 내전방향으로 살짝넘겨주고, 반대손은 팔꿈치쪽을 받아서 잡아 안쪽으로 horizontal abduction을 maxium으로 해준다. -> 어깨 위쪽(AC joint 근처) 통증이 있으면 AC joint 문제
   - 자전거 or 킥보드타고 옆으로 꽝 넘어지는 경우 AC joint 손상이 생길 수 있다.
   - AC joint를 부딪히게 하보는 것이다.
-    ![](http://cfile25.uf.tistory.com/image/99E42646601F6C01168BDE)
-    ![](http://cfile27.uf.tistory.com/image/993D4335601F6C5B16AFF3)
-    ![](http://cfile24.uf.tistory.com/image/99E44446601F6CBF163280)
+    ![](https://user-images.githubusercontent.com/54255124/107910783-6b42fc00-6f9e-11eb-8a3f-780936083768.png)
+    ![](https://user-images.githubusercontent.com/54255124/107911240-78acb600-6f9f-11eb-92ef-6ce5eb6ad934.png)
+    ![](https://user-images.githubusercontent.com/54255124/107911315-abef4500-6f9f-11eb-8261-491b6fdfb10d.png)

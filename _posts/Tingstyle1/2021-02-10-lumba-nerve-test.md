@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 요추-신경학적검사  
 date: 2021-02-10 16:40:00
-tags: [조재성, 이학적검사, 신경검사, 요추] 
+tags: [요추, 이학적검사, 신경검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -41,7 +41,7 @@ toc: true
 
 - 좌우대칭으로 시작
 
-![그림출저 : 밀러 정형외과 책](http://cfile5.uf.tistory.com/image/99E9F2336018AD79068CC2)
+![그림출저 : 밀러 정형외과 책](https://user-images.githubusercontent.com/54255124/107869544-ad9f0700-6ed2-11eb-9749-356d9a808a34.png)
 
 하지 근력이 떨어지면, 수술 적응증이다.
 
@@ -107,21 +107,21 @@ toc: true
 
 
 - `L4` : 내과 앞쪽
-  ![](http://cfile26.uf.tistory.com/image/99315535601A1A40141E8D)
+  ![](https://user-images.githubusercontent.com/54255124/107869636-93b1f400-6ed3-11eb-965a-209307c81454.png)
 
 
 
 
 
 - `L5` : 엄지발가락 안쪽 , 태충 쪽
-  ![](http://cfile10.uf.tistory.com/image/99B8D533601A1A8514CB81)
+  ![](https://user-images.githubusercontent.com/54255124/107869640-9ad90200-6ed3-11eb-8470-e1dee1cb346c.png)
 
 
 
 
 
 - `S1` : 외과 뒤쪽 ~ 새끼발가락 옆쪽
-  ![](http://cfile26.uf.tistory.com/image/9959073A601A1AB21493B7)
+  ![](https://user-images.githubusercontent.com/54255124/107869650-bf34de80-6ed3-11eb-9086-b223799522b2.png)
 
 
 
@@ -149,5 +149,5 @@ toc: true
   - 근력만큼은 꼭 비교한다.
     - 감각은 조금 떨어져도 삶의 질에 큰 영향을 주지 않는다.
 
-  ![](http://cfile10.uf.tistory.com/image/99227E46601A21D117A6E3)
+  ![](https://user-images.githubusercontent.com/54255124/107869653-c1973880-6ed3-11eb-9d27-1107d54f386a.png)
 

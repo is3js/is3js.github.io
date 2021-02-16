@@ -1,11 +1,12 @@
 ---
+
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 요추-이학적적검사  
 date: 2021-02-10 16:40:00
-tags: [조재성, 이학적검사, 요추] 
+tags: [요추, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -33,11 +34,11 @@ toc: true
   환자에게 **무릎을 편 상태로 허리를 구부려 손을 발가락에 닫도록 구부**리게 한다.
   **구부린 상태에서 다시 줄자로 -5cm ~ +10cm 점 사이거리를 젠다.**
   -> **5cm이상 벌어져 20cm이상**되어야 정상
-  -> **5cm이하(20cm이하)**로 벌어질 경우 **강직성 척수염 의심**![](http://cfile23.uf.tistory.com/image/99E5D3436020BC871F70F1)
-  ![](http://cfile6.uf.tistory.com/image/99E5CA436020BC961FAF94)
-  ![](http://cfile27.uf.tistory.com/image/998B03486020BCAF221156)
-  ![](http://cfile22.uf.tistory.com/image/99E17B426020BCC0209A3C)
-  ![](http://cfile5.uf.tistory.com/image/99E5EA436020BD271FE5E5)
+  -> **5cm이하(20cm이하)**로 벌어질 경우 **강직성 척수염 의심**![](https://user-images.githubusercontent.com/54255124/107911497-11433600-6fa0-11eb-80ae-a59d0178071a.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911502-13a59000-6fa0-11eb-8f16-3010525f3115.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911507-16a08080-6fa0-11eb-9942-0f9dfc10d882.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911512-1902da80-6fa0-11eb-9931-8dfa1b4080ff.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911516-1b653480-6fa0-11eb-9d0a-4ee9cc2684ca.png)
 
 
 
@@ -50,11 +51,12 @@ toc: true
 ## [디스크 탈출증](https://www.youtube.com/watch?v=vsJG19M2rro)
 
 - 다리를 잡아 당겨서 -> 튀어나오고 눌려진 nerve root ~ 다리까지의 신경을 잡아당기거나  
-  ![](http://cfile6.uf.tistory.com/image/99B015346020C3DA201318)
+  ![](https://user-images.githubusercontent.com/54255124/107911523-1dc78e80-6fa0-11eb-8a68-af3a4aae7b72.png)
   - 여기서 발목을 굴곡시켜, nerve root에서 나온 신경을 더 잡아 당기기도 한다.
-    ![](http://cfile23.uf.tistory.com/image/99F238466020C47621E192)
+    
+    ![](https://user-images.githubusercontent.com/54255124/107911533-215b1580-6fa0-11eb-944a-f5dc082e7a2d.png)
 - 머리를 잡아 당겨서 -> 가운데 spinal cord를 잡아당긴다.
-  ![](http://cfile27.uf.tistory.com/image/999F61336020C3E8206E69)
+  ![](https://user-images.githubusercontent.com/54255124/107911612-46e81f00-6fa0-11eb-8491-6be8f6206d80.png)
 
 
 
@@ -76,11 +78,11 @@ toc: true
     - 위쪽의 문제 인지 확인하기 위해 고개를 들어본다 ->**Neri's Sign**
   - 70~90도 : 요추 자체의 문제 or 천장관절(SI joint)의 문제일 수 있다.
 
-  ![](http://cfile28.uf.tistory.com/image/999E25336020C14B206348)
-  ![](http://cfile26.uf.tistory.com/image/998667376020C2A01F07C7)
-  ![](http://cfile27.uf.tistory.com/image/993EB0356020C2C220355F)
-  ![](http://cfile9.uf.tistory.com/image/990E1F446020C2F01FF672)
-  ![](http://cfile6.uf.tistory.com/image/990605446020C2FC208578)
+  ![](https://user-images.githubusercontent.com/54255124/107911618-49e30f80-6fa0-11eb-9e12-0f6b0542333d.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911625-4bacd300-6fa0-11eb-8d05-f7fec4153665.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911635-4e0f2d00-6fa0-11eb-8b5b-8bc9c2bafe73.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911639-4fd8f080-6fa0-11eb-810c-6207a9e3643e.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911649-52d3e100-6fa0-11eb-9293-e185486c12d6.png)
 
 
 
@@ -98,11 +100,11 @@ toc: true
   검사자는 후두부를 누른 상태로, 반대손으로 발목을 dorsi flexion시킨다.
   -> **"악! "하고 아파**하거나 **허리가 뒤로 나가시는 분**들은 **허리 디스크로 인한 좌골신경통** 의심.
 
-  ![](http://cfile28.uf.tistory.com/image/99E17E436020C66C20238A)
-  ![](http://cfile10.uf.tistory.com/image/991C3D456020C6D12071D6)
-  ![](http://cfile28.uf.tistory.com/image/99B235346020C701208BDF)
-  ![](http://cfile25.uf.tistory.com/image/99ED2A466020C72B22DE90)
-  ![](http://cfile21.uf.tistory.com/image/99B254346020C74E20B6D4)
+  ![](https://user-images.githubusercontent.com/54255124/107911657-55363b00-6fa0-11eb-8139-a5ea89060bad.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911667-57989500-6fa0-11eb-9f70-dc344c73403d.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911682-5cf5df80-6fa0-11eb-8bb7-091c9fd8935e.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911687-5f583980-6fa0-11eb-98dd-85fea98dfc4c.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911699-641ced80-6fa0-11eb-8dcf-89a91f8956ef.png)
 
 
 
@@ -116,7 +118,7 @@ toc: true
 
 - 아니면 그냥 "**화장실에서 대변보실 때 허리가 아프세요?**" 물어본다.
 
-  ![](http://cfile9.uf.tistory.com/image/99E7B0426020C855205EA1)
+  ![](https://user-images.githubusercontent.com/54255124/107911917-d7266400-6fa0-11eb-84f3-d18975393aa8.png)
 
 
 
@@ -133,7 +135,7 @@ toc: true
   전완으로 소퇴부를 눌러서 무릎을 굴곡시킬 준비를 한다.
 
   검사자는 상체 무게중심을 앞으로 옮기면서 전완으로 무릎을 구부려 femoral nerve를 streching 시킨다. -> **양성시 L2-4 신경근 병변 **
-  ![](http://cfile2.uf.tistory.com/image/99E552436020CD7A20D23C)
-  ![](http://cfile25.uf.tistory.com/image/99AD31346020CD4221D994)
-  ![](http://cfile30.uf.tistory.com/image/9983DB376020CD5020B541)
-  ![](http://cfile7.uf.tistory.com/image/991ECA3A6020CD63212579)
+  ![](https://user-images.githubusercontent.com/54255124/107911921-d8f02780-6fa0-11eb-9ace-8b75cdb1b24c.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911925-dab9eb00-6fa0-11eb-9d1e-8ac5cc87fe95.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911928-dc83ae80-6fa0-11eb-832b-1e5558dd9e7b.png)
+  ![](https://user-images.githubusercontent.com/54255124/107911932-ddb4db80-6fa0-11eb-8b44-3fe5199761a7.png)

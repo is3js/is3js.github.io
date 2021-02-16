@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post 
-cover:  assets/built/images/nonmoon-logo.jpg
+cover:  assets/built/images/test.jpg
 navigation: True
 title: 경추-신경학적검사  
 date: 2021-02-09 16:40:00
-tags: [tingstyle1, 이학적검사, 신경검사, 경추] 
+tags: [경추, 신경검사, 이학적검사] 
 class: post-template 
 subclass: 'post tag-python' 
 author: tingstyle1 
@@ -60,7 +60,7 @@ toc: true
   - 환자에게 팔꿈치 벌려서 팔을 옆으로 벌리라고 한다.
   - 뒤에 서서 "제가 힘을 줄건데, 못밀게 한번 막아보세요. 반대쪽도 한번 해보실까요"
 
-  ![](http://cfile21.uf.tistory.com/image/99DCF3456018B417060451)
+  ![](https://user-images.githubusercontent.com/54255124/107869555-d3c4a700-6ed2-11eb-8eea-43c3252a8f2f.png)
 
 
 
@@ -71,8 +71,8 @@ toc: true
   - 주먹을 쥔 상태로(손가락 신전근 작용방지)
   - 전완고정 + 환자 손등을 살짝 감싸쥐고 "손목을 뒤로 제껴보세요~ 버텨보세요~"
 
-  ![](http://cfile27.uf.tistory.com/image/99BDF9496018B4C207C9B3)
-  ![1612231909604](C:\Users\is2js\AppData\Roaming\Typora\typora-user-images\1612231909604.png)
+  ![](https://user-images.githubusercontent.com/54255124/107869562-e0e19600-6ed2-11eb-8f3e-ef1ece93b12d.png)
+  ![1612231909604](https://user-images.githubusercontent.com/54255124/107912809-8a438d00-6fa2-11eb-8389-a32439104f20.png)
 
 
 
@@ -84,7 +84,7 @@ toc: true
   - 손바닥이 하늘을 향하도록 주먹을 쥐게 하고 C6 손목 신전 테스트를 반대로 하거나 
   - 전완 고정  + 손바닥쪽을 감싸 쥐고 "손목을 꺽어보세요~ 버텨보세요~"
 
-  ![](http://cfile7.uf.tistory.com/image/9914293C6018B90B07FF13)
+  ![](https://user-images.githubusercontent.com/54255124/107869569-f0f97580-6ed2-11eb-99eb-57855fe9864b.png)
 
 
 
@@ -94,7 +94,7 @@ toc: true
 
   - 아래그림처럼 검사자 손이 아래로 가도록, 2,3,4지를 갈고리형태로 주먹을 쥐게해서 "제가 펼테니 계속 주먹 쥐어서 버텨보세요~"
 
-  ![](http://cfile26.uf.tistory.com/image/999365446018BC8B06A10B)
+  ![](https://user-images.githubusercontent.com/54255124/107869572-f951b080-6ed2-11eb-93e9-219d4f1046d2.png)
 
 
 
@@ -109,7 +109,7 @@ toc: true
   - 2지, 5지를 잡아 안벌려지게 저항을준다
   - 어느 한손가락이라도 벌리는 힘(외전)이 약해지면, 반대쪽과 비교해본다.
 
-  ![](http://cfile6.uf.tistory.com/image/990574476018BE280752C2)
+  ![](https://user-images.githubusercontent.com/54255124/107869581-08386300-6ed3-11eb-873a-198ae3dd5e1b.png)
 
  
 
@@ -139,7 +139,7 @@ toc: true
 
 - 검사자가 손가락을 고양이 발톱처럼 만들어서 손가락 등으로 해당 부위를 긁어본다.
 
-![](http://cfile22.uf.tistory.com/image/998EDD446018C11807F53A)
+![](https://user-images.githubusercontent.com/54255124/107869583-1b4b3300-6ed3-11eb-95f2-dd8689d8f7d2.png)
 
 
 
@@ -149,7 +149,7 @@ toc: true
 - `C7` : 3지 ( 그림은 2,3지)
 - `C8` : 4,5지
 
-![](http://cfile2.uf.tistory.com/image/999833426019FE500FB74B)
+![](https://user-images.githubusercontent.com/54255124/107869606-65ccaf80-6ed3-11eb-8bdb-5ba51bee545b.png)
 
 
 
@@ -181,7 +181,7 @@ toc: true
 
   - 움찔거린다
 
-  ![](http://cfile25.uf.tistory.com/image/99C26E43601A006C0FC211)
+  ![](https://user-images.githubusercontent.com/54255124/107869617-6e24ea80-6ed3-11eb-8d6b-1bf3a85688d4.png)
 
 
 
@@ -193,14 +193,14 @@ toc: true
 
   - "힘빼세요~ 계속~"
 
-  ![](http://cfile2.uf.tistory.com/image/990BDA37601A00490FE561)
+  ![](https://user-images.githubusercontent.com/54255124/107869628-7e3cca00-6ed3-11eb-85c8-fba47284fc3c.png)
 
 
 
 ### C7
 
 - C7 : **역시 요골신경** 나오는 곳으로 **tricepts 힘줄**과 환자 팔꿈치를 잡고, 약간 구부리게 한 뒤 침
-  ![](http://cfile26.uf.tistory.com/image/99E6BD34601A00EB0FA60E)
+  ![](https://user-images.githubusercontent.com/54255124/107869632-87c63200-6ed3-11eb-903c-660873df65ef.png)
 
 
 

@@ -212,9 +212,9 @@ span.lecture-reference {
 /* All Tags 화면을 위한 폰트 크기 설정 custom css */
 /*my) 상단 태그들 모음의 글자크기*/
 .alltags {
-    font-size: 15px;
-    font-weight: bold;
-    color: #ce112a
+    font-size: 1.4rem;
+    font-weight: normal;
+    color: #FFBDBB;     /*태그의 count색? -> 적용안된다. 글자 크기 및 진하기만 적용됨*/
 }
 /*my) 각 태그명*/
 h2.tag-heading {
@@ -618,18 +618,21 @@ All this is done for any sub-level being entered.
     border-radius: 3px;
     background-color: rgba(162, 162, 162, 0.8); }
 
-/*my) 상단 태그들 모음 글자배경*/
+/*my) 상단 태그들 모음 태그 글자 배경*/
 .entry-meta .tag span {
     float: left;
-    padding: 2px 6px;
+    padding: 6px 6px;
     color: #ffffff;
     font-family: inherit;
-    background-color: black;
+    background-color: #342626;
 }
-/*my) 상단 태그들 모음 카운트*/
+/*my) 상단 태그들의 카운트 색*/
 .entry-meta .tag .count {
-    background-color: #fa3a57;
-    border-radius: 0 3px 3px 0; }
+    background-color: #d7a6a6;
+    border-radius: 0 3px 3px 0;
+    /*3px 이상 오그리면, 하이퍼링크랑 막 난리남.*/
+}
+
 .entry-meta .tag:hover {
     background-color: rgba(136, 136, 136, 0.8); }
 .entry-meta .entry-reading-time {
@@ -681,11 +684,13 @@ All this is done for any sub-level being entered.
 
 
 
+
+/* 마크다운으로 toc 생성시 적용*/
+
 /*Adding 'Contents' headline to the TOC*/
 #markdown-toc::before {
     content: "Contents.";
     font-weight: bold;
-
 }
 /*큰제목*/
 #markdown-toc {
