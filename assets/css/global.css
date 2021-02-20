@@ -96,11 +96,13 @@ time,
 mark,
 audio,
 video {
+    /* my) 글자크기 1차 */
+    /*모든 글자 크기 조정 -> 90%이하면 완전깨짐. 95%로 줌 */
     margin: 0;
     padding: 0;
     border: 0;
     font: inherit;
-    font-size: 100%;
+    font-size: 95%;
     vertical-align: baseline;
 }
 body {
@@ -426,12 +428,18 @@ h3,
 h4,
 h5,
 h6 {
+    /* my) 글자크기 2차 */
+    /* 제목1~6까지 굵기 등 조정 : 안건들임 */
+    /* 참고 : 400normal, 700 bold, bolder=상속된 것보다 더 굵게, lighter , number는 100부터 900까지, initial : 기본값, inherit : 상속 */
     margin-top: 0;
     line-height: 1.15;
     font-weight: 700;
     text-rendering: optimizeLegibility;
 }
 
+/* my) 글자크기 3차 */
+/* 제목1~6까지 각각 조정 */
+/**/
 h1 {
     margin: 0 0 0.5em 0;
     font-size: 5rem;

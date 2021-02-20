@@ -69,7 +69,7 @@ ul.table-of-contents-list li, ol.table-of-contents-list li {
 
 ul.table-of-contents-list li a, ol.table-of-contents-list li a {
     text-decoration: none;
-    color: color(var(--midgrey) l(-25%));
+    color: #342626;
     font-weight: bold;
 }
 
@@ -699,7 +699,6 @@ All this is done for any sub-level being entered.
     list-style: disc;
     display: inline-block;
     font-size: medium !important;
-
 }
 /*큰제목 이후 제목들*/
 /*// Using numbers instead of bullets for listing*/
@@ -708,3 +707,70 @@ All this is done for any sub-level being entered.
     font-size: small !important;
 
 }
+
+
+
+
+/*!* toc.html로 div.toc 컨트롤하기 *!*/
+.toc {
+    position: absolute;
+    right: 0px;
+    width: 240px;
+    color: #342626;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    margin-right: 0px;
+    font-size: 1.2rem;
+    border-left: 2px solid #e0d9e7;
+    display: none;
+}
+  @media (min-width: 75em){
+      .toc {
+          width: 240px;
+          display: block;
+      }
+  }
+  @media (min-width: 85em) {
+      .toc {
+          width: 300px;
+          display: block;
+      }
+  }
+  @media (min-width: 95em){
+      .toc{
+    width: 360px;
+    display: block;
+    }
+  }
+
+
+  a.toc-active {
+    font-weight: bold;
+    transition: all 0.125s ease-in 0s;
+    font-size: 0.75rem;
+    color: #9075aa;
+  }
+
+  ul {
+    list-style-type: none;
+    margin-bottom: 0.1rem;
+    padding-left: 0rem;
+  }
+
+ul li {
+      padding-left: .5rem;
+    }
+
+ul a {
+      color: #342626;
+      text-decoration: none;
+  }
+
+  ul a:hover {
+     color:#FFBDBB;
+  }
+

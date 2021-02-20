@@ -132,7 +132,7 @@ branch: main
 relative_source:
 
 destination: ./output/
-#  ../[GithubPage]/
+#destination: ../[GithubPage]/
 #
 #
 

@@ -610,14 +610,15 @@ The first (most recent) post in the list is styled to be bigger than the others 
     justify-content: center;
     align-items: center;
     color: var(--midgrey);
-    font-size: 1.4rem;
+    /* my) single 포스트 기본적인 글자 크기*/
+    font-size: 1.2rem;
     font-weight: 600;
     text-transform: uppercase;
 }
 
 /*my) post.html 상단 태그 중 날짜 글자 색*/
 .post-full-meta-date {
-    color: #342626;
+    color: #bd8e8e;
 }
 
 .post-full-title {
@@ -748,13 +749,17 @@ The first (most recent) post in the list is styled to be bigger than the others 
     line-height: 1.5em;
 }
 
+/* my) 포스트 안의 a태그 */
 .post-full-content a {
-    color: #000;
-    box-shadow: var(--blue) 0 -1px 0 inset;
+    color: #342626;
+    /* a태그 밑줄 */
+    /*box-shadow: #bd8e8e 0 -1px 0 inset;*/
+    /*밑줄 없애기*/
 }
 
+/* my) 포스트 안의 a태그 hover */
 .post-full-content a:hover {
-    color: var(--blue);
+    color: #FFBDBB;
     text-decoration: none;
 }
 
@@ -822,7 +827,7 @@ Usage (In Ghost editor):
 .post-full-content blockquote {
     margin: 0 0 1.5em;
     padding: 0 1.5em;
-    border-left: #3eb0ef 3px solid;
+    border-left: #FFBDBB 3px solid;
 }
 
 .post-full-content blockquote p {
@@ -898,51 +903,60 @@ Usage (In Ghost editor):
 .post-full-content h4,
 .post-full-content h5,
 .post-full-content h6 {
-    color: color(var(--darkgrey) l(-5%));
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    /*color: color(var(--darkgrey) l(-5%));*/
+    /* my) 전체 제목1~6 글자 색 정의 */
+    color: #342626;
+    /*font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;*/
+    font-family: inherit;
 }
 
 .post-full-content h1 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 4.6rem;
+    font-size: 3.6rem;
+    /*4.6rem;*/
     font-weight: 700;
 }
 @media (max-width: 500px) {
     .post-full-content h1 {
-        font-size: 2.8rem;
-    }
-}
-
-.post-full-content h2 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 3.6rem;
-    font-weight: 700;
-}
-@media (max-width: 500px) {
-    .post-full-content h2 {
+        /*font-size: 2.8rem;*/
         font-size: 2.6rem;
     }
 }
 
-.post-full-content h3 {
-    margin: 0.5em 0 0.2em 0;
+.post-full-content h2 {
+    margin: 0.5em 0 0.2em 0.5em; /* 좌 마진 0.5 em 추가 */
+    /*font-size: 3.6rem;*/
     font-size: 2.8rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
-    .post-full-content h3 {
+    .post-full-content h2 {
+        /*font-size: 2.6rem;*/
         font-size: 2.2rem;
     }
 }
 
+.post-full-content h3 {
+    margin: 0.5em 0 0.2em 0.7em;
+    /*font-size: 2.8rem;*/
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+@media (max-width: 500px) {
+    .post-full-content h3 {
+        /*font-size: 2.2rem;*/
+        font-size: 1.8rem;
+    }
+}
+
 .post-full-content h4 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    margin: 0.5em 0 0.2em 1.0em;
+    font-size: 2.2rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
     .post-full-content h4 {
-        font-size: 2.2rem;
+        font-size: 1.9rem;
     }
 }
 
@@ -951,7 +965,8 @@ Usage (In Ghost editor):
     margin: 0.5em 0;
     padding: 1em 0 1.5em;
     border: 0;
-    color: var(--blue);
+    /*샵5개 짜리 글자색을 파란색에서 진갈색으로 */
+    color: #bd8e8e;
     font-family: Georgia,serif;
     font-size: 3.2rem;
     line-height: 1.35em;
@@ -1637,7 +1652,7 @@ Usage (In Ghost editor):
     /*my) 저자설명란, 글자 크기 2->1.6rem으로 줄이고, 색깔도 줌*/
     font-size: 1.4rem;
     font-weight: bold;
-    font-family: inherit;
+    font-family: 'Spoqa Han Sans Neo', 'sans-serif';
     color : #342626;
 
     line-height: 1.3em;
