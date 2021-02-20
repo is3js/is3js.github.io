@@ -131,8 +131,8 @@ branch: main
 
 relative_source:
 
-#destination: ./output/
-destination: ../[GithubPage]/
+destination: ./output/
+#destination: ../[GithubPage]/
 #
 #
 
