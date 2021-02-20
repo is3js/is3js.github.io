@@ -75,15 +75,12 @@ into the {body} of the default.hbs template -->
             <section class="post-full-content">
                 <!--toc부분 커스텀toc.html 추가부분-->
                 <div class="toc">
-                  <a href="#">&lt;맨 위로&gt;</a>
+                  <h6>🎗Contents</h6>
                   {% include toc.html html=content %}
                 </div>
-                <h6>글 요약.</h6>
+                <h6>🎗Contents</h6>
                 <div class="kg-card-markdown">
-                    <!-- .toc toc.html추가로 | toc 제거함-->
-                    <!--{{ content | toc}}-->
-                    <!--{{ content }}-->
-                    <!--오른쪽에만 나타나고, 작으면 사라지기 때문에 맨위에도 추가-->
+                     <!--오른쪽에만 나타나고, 작으면 사라지기 때문에 맨위에도 추가-->
                     {{ content | toc }}
                 </div>
             </section>
