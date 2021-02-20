@@ -45,7 +45,7 @@
                     {% endif %}
                 {% endfor %}
                 <span class="reading-time">
-                    {{ page.date | date:'%Y년 %m월 %d일' }}
+                    {{ post.date | date:'%Y년 %m월 %d일' }}
                     <!--{% assign words = post.content | strip_html | number_of_words %}-->
                     <!--{% if words <= words_per_minute %}-->
                       <!--1 min read-->
