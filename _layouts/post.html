@@ -78,13 +78,13 @@ into the {body} of the default.hbs template -->
                   <a href="#">&lt;맨 위로&gt;</a>
                   {% include toc.html html=content %}
                 </div>
-
+                <h6>글 요약.</h6>
                 <div class="kg-card-markdown">
                     <!-- .toc toc.html추가로 | toc 제거함-->
                     <!--{{ content | toc}}-->
                     <!--{{ content }}-->
                     <!--오른쪽에만 나타나고, 작으면 사라지기 때문에 맨위에도 추가-->
-                    {{ content | toc}}
+                    {{ content | toc }}
                 </div>
             </section>
 

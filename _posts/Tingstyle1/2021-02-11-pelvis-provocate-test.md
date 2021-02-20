@@ -14,7 +14,8 @@ toc: true
 
 ## 고관절 & 천장관절
 
-### [Patrick (FABER) test](https://www.youtube.com/watch?v=4PxwHysGjxU) for 앞-고관절/뒤-천장관절 검사
+### Patrick (FABER) test
+- [유튜브](https://www.youtube.com/watch?v=4PxwHysGjxU) for 앞-고관절/뒤-천장관절 검사
 
 - FABERE  
 
@@ -46,7 +47,8 @@ toc: true
 
 ## 장요근
 
-### [Thomas test](https://www.youtube.com/watch?v=OnjOOKuBPj4) for 장요근 -> 대퇴직근 단축(근육검사)
+### Thomas test
+- [유튜브](https://www.youtube.com/watch?v=OnjOOKuBPj4) for 장요근 -> 대퇴직근 단축(근육검사)
 
 - **"허리 왼쪽이 아파요~"하면서 왔을 때**, 건측부터 검사한다.
 
@@ -83,7 +85,8 @@ toc: true
 - 대퇴근막장근, 장경인대의 단축을 보는 검사
   ![](https://user-images.githubusercontent.com/54255124/107912052-1b196900-6fa1-11eb-8925-4cf8521793b0.png)
 
-### [Ober test](https://www.youtube.com/watch?v=ydO-_gc1yWo)(오베르, 오버 테스트)
+### Ober test
+- [유튜브](https://www.youtube.com/watch?v=ydO-_gc1yWo)(오베르, 오버 테스트)
 
 - 무릎을 구부려서 하는 방법도 있지만, knee flexion시 대퇴사두근의 긴장을 유발하므로 무릎을 펴고 실험(Modified ober test)하는 것으로 대체한다.
 
@@ -112,7 +115,8 @@ toc: true
 
 ## 이상근증후군 : 디스크는 아닌데 좌골신경통
 
-### [Piriformis test](https://www.youtube.com/watch?v=OnjOOKuBPj4)
+### Piriformis test
+- [유튜브](https://www.youtube.com/watch?v=OnjOOKuBPj4)
 
 - 디스크환자도 이상근 증후군 증상이 유발되기도 한다.
 

@@ -14,7 +14,8 @@ toc: true
 
 ## Medial/Later Epicondylitis 검사
 
-### [Cozen's test for 외측상과염(Tennis)](https://www.youtube.com/watch?v=8K7jzDIUpLI)
+### Cozen's test for 외측상과염(Tennis)
+- [유튜브](https://www.youtube.com/watch?v=8K7jzDIUpLI)
 
 - 외측상과에는 손목을 신전시키는 근육들이 붙는다.
 
@@ -33,7 +34,8 @@ toc: true
 
 
 
-### [Reverse cozen's test for 내측상과염(Golf)](https://www.youtube.com/watch?v=1gdPjO_UV_Y)
+### Reverse cozen's test for 내측상과염(Golf)
+- [유튜브](https://www.youtube.com/watch?v=1gdPjO_UV_Y)
 
 - Golf elbow는 Medial epicondyle문제로 손목을 굴곡시키는 근육들이 붙는다.
 - 팔꿉치를 90도 굴곡상태로 보조수로 내측상과를 촉지한다.

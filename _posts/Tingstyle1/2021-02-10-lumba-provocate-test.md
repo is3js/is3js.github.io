@@ -26,8 +26,9 @@ toc: true
 
 
 
-### [Schober test (쇼베르, 쇼버 검사, 이미 진단 받은 경우가 많음)](https://www.youtube.com/watch?v=B9RaFB5BwrQ)
-
+### Schober test (쇼베르, 쇼버 검사)
+- [유튜브](https://www.youtube.com/watch?v=B9RaFB5BwrQ)
+- 이미 진단받고 오는 경우가 많아, 실제 검사하진 않는다.
 - **환자가 서있는 상태**에서 S1이라고 표기되어있지만, **PSIS를 잇는 S2**를 잡고, 
   **중앙에서 아래 5cm,  중앙에서 위로 10cm를 줄자를 데고 표기**한다. (총 15cm)
 
@@ -48,12 +49,12 @@ toc: true
 
 
 
-## [디스크 탈출증](https://www.youtube.com/watch?v=vsJG19M2rro)
+## 디스크 탈출증
+- [유튜브](https://www.youtube.com/watch?v=vsJG19M2rro)
 
 - 다리를 잡아 당겨서 -> 튀어나오고 눌려진 nerve root ~ 다리까지의 신경을 잡아당기거나  
   ![](https://user-images.githubusercontent.com/54255124/107911523-1dc78e80-6fa0-11eb-8a68-af3a4aae7b72.png)
   - 여기서 발목을 굴곡시켜, nerve root에서 나온 신경을 더 잡아 당기기도 한다.
-    
     ![](https://user-images.githubusercontent.com/54255124/107911533-215b1580-6fa0-11eb-944a-f5dc082e7a2d.png)
 - 머리를 잡아 당겨서 -> 가운데 spinal cord를 잡아당긴다.
   ![](https://user-images.githubusercontent.com/54255124/107911612-46e81f00-6fa0-11eb-8491-6be8f6206d80.png)
@@ -66,7 +67,8 @@ toc: true
 
 
 
-### [SLR Test](https://www.youtube.com/watch?v=HFGfP84uwEo) -> Bragard's Sign or Neri's Sign
+### SLR Test -> Bragard's or Neri's Sign
+- [유튜브](https://www.youtube.com/watch?v=HFGfP84uwEo) 
 
 - 주로 **L4,5,S1의 하위 요추 신경근 병변을 검사한다.**
 
@@ -90,7 +92,8 @@ toc: true
 
 
 
-### [Slump test (앉아서 하는 SLRT)](https://www.youtube.com/watch?v=HFGfP84uwEo)
+### Slump test (앉아서 하는 SLRT)
+- [유튜브](https://www.youtube.com/watch?v=HFGfP84uwEo)
 
 - "앉아보실까요?"~ 해서 앉힌다.
   환자의 양손을 열중셧 자세로 만들고. 흉부/요부를 flexion시킨다.
@@ -112,7 +115,8 @@ toc: true
 
 
 
-### [Valsalva test (앉아서 하는 디스크 검사)](https://www.youtube.com/watch?v=k5o26XwpCt4)
+### Valsalva test (앉아서 하는 디스크 검사)
+- [유튜브](https://www.youtube.com/watch?v=k5o26XwpCt4)
 
 - 앉은 상태에서, 숨을 깊게 들이쉬고, **손등을 후 2초동안 강력하게 불게** 한다.
 
@@ -124,7 +128,8 @@ toc: true
 
 
 
-### [Femoral nerve stretch test for 상위요추L2-4 신경근 병변](https://www.youtube.com/watch?v=cN0uou-nZH8)
+### Femoral nerve stretch test for 상위요추L2-4 신경근 병변
+- [유튜브](https://www.youtube.com/watch?v=cN0uou-nZH8)
 
 - 왼쪽 다리가 저리다고 하면, 오른쪽(건측)부터 검사를 하자
 
@@ -134,7 +139,7 @@ toc: true
   주동수 손바닥으로 환자의 무릎을 감싸 hip을 신전시켜 든다.
   전완으로 소퇴부를 눌러서 무릎을 굴곡시킬 준비를 한다.
 
-  검사자는 상체 무게중심을 앞으로 옮기면서 전완으로 무릎을 구부려 femoral nerve를 streching 시킨다. -> **양성시 L2-4 신경근 병변 **
+  검사자는 상체 무게중심을 앞으로 옮기면서 전완으로 무릎을 구부려 femoral nerve를 streching 시킨다. -> **양성시 L2-4 신경근 병변**
   ![](https://user-images.githubusercontent.com/54255124/107911921-d8f02780-6fa0-11eb-9ace-8b75cdb1b24c.png)
   ![](https://user-images.githubusercontent.com/54255124/107911925-dab9eb00-6fa0-11eb-9d1e-8ac5cc87fe95.png)
   ![](https://user-images.githubusercontent.com/54255124/107911928-dc83ae80-6fa0-11eb-832b-1e5558dd9e7b.png)

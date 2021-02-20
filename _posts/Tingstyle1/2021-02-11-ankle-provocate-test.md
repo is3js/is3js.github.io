@@ -22,7 +22,8 @@ toc: true
 
 
 
-### [Anterior Drawer test for ATFL](https://www.youtube.com/watch?v=e4IehK8uyHo)
+### Anterior Drawer test for ATFL
+- [유튜브](https://www.youtube.com/watch?v=e4IehK8uyHo)
 
 - 환자를 앉히고 발 앞에서 검사한다.
   보조수로 tibia(발목)쪽을 감싸잡고, 주동수로 손바닥을 종골을 완전히 잡아준다.
@@ -32,7 +33,8 @@ toc: true
 
 
 
-### [Posterior drawer test for PTFL](https://www.youtube.com/watch?v=e4IehK8uyHo)
+### Posterior drawer test for PTFL
+- [유튜브](https://www.youtube.com/watch?v=e4IehK8uyHo)
 
 - 보조수로 발목 뒤쪽을 감싸잡고, 주동수로는 엄지 + 4지(1,2,3지 중심)로 발가락부분을 감싸잡고, 뒷 방향으로 강력하게 밀어준다.
   ![](https://user-images.githubusercontent.com/54255124/107912690-4f415980-6fa2-11eb-8766-112270315ad2.png)
@@ -43,7 +45,8 @@ toc: true
 
 
 
-### [Lateral stability test for 바깥쪽 3개 인대](https://www.youtube.com/watch?v=e4IehK8uyHo)
+### Lateral stability test for 바깥쪽 3개 인대
+- [유튜브](https://www.youtube.com/watch?v=e4IehK8uyHo)
 
 - inversion 시켜서 인대가 얼마나 늘어나는지 확인한다.
 
@@ -62,7 +65,8 @@ toc: true
 
 ## 아킬레스건 손상
 
-### [Thompson's squeezing test](https://www.youtube.com/watch?v=z-7cJ7LpCqY)
+### Thompson's squeezing test
+- [유튜브](https://www.youtube.com/watch?v=z-7cJ7LpCqY)
 
 - 축구를 하다가 "**발목에서 뚝 소리가 났고 아파요**" 라고 한다면, **아킬레스건 손상을 의심**해봐야한다.
 

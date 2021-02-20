@@ -15,7 +15,8 @@ toc: true
 
 ## 충돌증후군 검사
 
-### [Neer test(Neer's sign test)](https://www.youtube.com/watch?v=k21FNtBjQ14&feature=emb_logo)
+### Neer test(Neer's sign test)
+- [유튜브](https://www.youtube.com/watch?v=k21FNtBjQ14&feature=emb_logo)
 
 - 검사자는 뒤에서 한손을 환자 어깨위에 올리고,
   환자는 검사할 팔을 앞으로 내고, 엄지를 아래쪽으로 향하도록 한 뒤(pronate), 팔꿈치를 펴고 검사자는 수동적으로 환자의 팔을 가능한 범위내까지 쭉 올려본다.(forward flex) 
@@ -32,7 +33,8 @@ toc: true
 
 
 
-### [Hawkins test(Hawkins Kennedy Test)](https://www.youtube.com/watch?v=6GkKB2oXi3o)
+### Hawkins test(Hawkins Kennedy Test)
+- [유튜브](https://www.youtube.com/watch?v=6GkKB2oXi3o)
 
 - 환자를 앉힌 상태에서, 팔꿈치를 약간 굽힌 상태에서, 팔을 90도까지 올리고(forward flexion)
   검사자는 환자의 팔 아래로 들어가 반대쪽 어깨를 잡고, 다른 한손으로는 손목을 잡아 내회전 시킬 준비를 한다.
@@ -61,7 +63,8 @@ toc: true
 
 
 
-### [empty can test (극상건 검사)](https://www.youtube.com/watch?v=gs1n8dBKeLQ&t=259s)
+### empty can test (극상건 검사)
+- [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&t=259s)
 
 - 양쪽을 비교하기 위해서 양팔을 동시에 해도 된다.
 
@@ -80,7 +83,8 @@ toc: true
 
 
 
-### [Drop arm test](https://www.youtube.com/watch?v=gs1n8dBKeLQ&t=259s)
+### Drop arm test
+- [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&t=259s)
 
 - 양성이라면, 완전파열이나 massive tear일 확률이 높아진다.
   
@@ -107,7 +111,8 @@ toc: true
 
   
 
-### [Lift-off test](https://www.youtube.com/watch?v=AgkTH52_PBI)
+### Lift-off test
+- [유튜브](https://www.youtube.com/watch?v=AgkTH52_PBI)
 
 - 환자의 손등이 요추의 중앙에 닿도록 자세를 잡게 한다.(내회전 기본자세)
   환자의 손바닥을 누른체로 "**등에서 손을 떼보세요~**"하면서 저항을 준다.
@@ -118,7 +123,8 @@ toc: true
 
 
 
-### [Internal rotation lag test](https://www.youtube.com/watch?v=FbxrdmtjwN8)
+### Internal rotation lag test
+- [유튜브](https://www.youtube.com/watch?v=FbxrdmtjwN8)
 
 - Lift-off와 비슷하지만, 미리 내회전을 최대화 시킨 상태에서 "**(팔꿈치만 잡아준 상태에서) 버텨보세요**"하는 것이다.
   만약 못버티고 등쪽으로 손등이 붙는다면, 내회전근육인 견갑하근의 파열 의심![](https://user-images.githubusercontent.com/54255124/107910106-076c0380-6f9d-11eb-82db-5698e14f1624.png)
@@ -132,7 +138,8 @@ toc: true
 
 ## 극하근, 소원근(회전근개3,4st)
 
-### [Patte test](https://www.youtube.com/watch?v=am5XZ1VnoLc)
+### Patte test
+- [유튜브](https://www.youtube.com/watch?v=am5XZ1VnoLc)
 
 - 환자를 앉힌 뒤, 팔을 90도 외전하여 scapular와 수평이 되게 하고,(극상/견갑 작용X)
 
@@ -147,7 +154,8 @@ toc: true
 
 
 
-### [External rotation lag sign](https://www.youtube.com/watch?v=iUTxEAOrEMY)
+### External rotation lag sign
+- [유튜브](https://www.youtube.com/watch?v=iUTxEAOrEMY)
 
 - patte와 비슷하지만 반대로 
   90외전/팔꿉치90굴곡상태에서/ **미리 외회전을 최대로 다 시켜놓은 상태에서**
@@ -169,7 +177,8 @@ toc: true
 
 
 
-### [Yergason test](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
+### Yergason test
+- [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
 
 - 앉은 상태의, 환자는 주관절을 90도 굴곡, 팔을 옆구리에 고정 및 손바닥이 바닥을 본 상태에서
   환자의 팔꿈치 및 손목을 잡고  "**이렇게 돌려보실까요~**" 하면서 주문을 준다.
@@ -188,7 +197,8 @@ toc: true
 
 
 
-### [speed test(덜 중요)](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
+### speed test(덜 중요)
+- [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
 
 - 마찬가지로 상완이두근의 작용에 저항을 주어 염증이나 파열을 의심하는데,
 
@@ -206,7 +216,8 @@ toc: true
 
 ## 견관절 자발성, 습관절 탈구
 
-### [(Anterior) Apprehension test](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
+### (Anterior) Apprehension test
+- [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
 
 - 앉아서, 누워서 둘다 실행할 수 있다.
 
@@ -234,7 +245,8 @@ toc: true
 
 
 
-### [O'Brien test for SLAP lesion(양성 드뭄)](http://blog.naver.com/PostView.nhn?blogId=ishealthlife&logNo=221285533078&parentCategoryNo=&categoryNo=82&viewDate=&isShowPopularPosts=true&from=search)
+### O'Brien test for SLAP lesion(양성 드뭄)
+- [유튜브](http://blog.naver.com/PostView.nhn?blogId=ishealthlife&logNo=221285533078&parentCategoryNo=&categoryNo=82&viewDate=&isShowPopularPosts=true&from=search)
 
 - 검사자는 어깨와 전완을 잡은 체로 환자의 팔을 90도 굴곡시키고, 
   10~15도 정도 수평 내전(Horizontal Adduction)시켜 몸중앙쪽으로 약간 모은다.
@@ -261,7 +273,8 @@ toc: true
 ![](https://user-images.githubusercontent.com/54255124/107910777-68e0a200-6f9e-11eb-976f-ac550b599866.png)
 [출저](https://blog.naver.com/hyjk95/222222964840)
 
-### [apply scarf test(수평 내전 검사, cross body test)](https://www.youtube.com/watch?v=DKLvt816x6o)
+### Apply scarf test(수평 내전 검사, cross body test)
+- [유튜브](https://www.youtube.com/watch?v=DKLvt816x6o)
 
 - 환자의 검사할 어깨 반대편, 뒤쪽에 서서 한손으로 견관절 90도 굴곡으로 팔을 
   들고, 내전방향으로 살짝넘겨주고, 반대손은 팔꿈치쪽을 받아서 잡아 안쪽으로 horizontal abduction을 maxium으로 해준다. -> 어깨 위쪽(AC joint 근처) 통증이 있으면 AC joint 문제

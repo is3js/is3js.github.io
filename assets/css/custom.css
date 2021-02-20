@@ -774,3 +774,14 @@ ul a {
      color:#FFBDBB;
   }
 
+
+/*my) Tags 페이지에 있는 제목 글자크기 */
+h3.tag {
+    color : #bd8e8e;
+}
+
+/*my) 각 post.html마다 포함된 toc.html의 글자크기 조절*/
+ul.section-nav{
+    font-size: x-small;
+}
+

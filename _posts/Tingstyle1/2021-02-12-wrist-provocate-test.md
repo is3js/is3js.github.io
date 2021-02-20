@@ -26,7 +26,8 @@ toc: true
 
 
 
-### [Finkelstein test](https://www.youtube.com/watch?v=s3S7j6w9uPM) for 드퀘르뱅 건초염
+### Finkelstein test
+- [유튜브](https://www.youtube.com/watch?v=s3S7j6w9uPM) for 드퀘르뱅 건초염
 
 - 보조수로 환자의 손목을 받쳐주고, 주동수로 자세를 같이 변형시켜주자.
   thumb - flex / squeeze(주먹쥐기) / ulnar devitation
@@ -45,7 +46,8 @@ toc: true
 
 ## 정중신경
 
-### [Phalen test for 손목터널증후군](https://www.youtube.com/watch?v=s3S7j6w9uPM)
+### Phalen test for 손목터널증후군
+- [유튜브](https://www.youtube.com/watch?v=s3S7j6w9uPM)
 
 - "**손등끼리 마주보고 붙혀보실게요~**" 하면서 **1분간 지켜본다.** -> "**더 저린 것 같아요**" 같이 통증, 저림이 있으면 **정중신경 압박**되고 있는 **손목터널 증후군**
 
@@ -57,7 +59,8 @@ toc: true
 
 
 
-### [Tinel's sign at wrist](https://www.youtube.com/watch?v=s3S7j6w9uPM)
+### Tinel's sign at wrist
+- [유튜브](https://www.youtube.com/watch?v=s3S7j6w9uPM)
 
 - 신경이 지나가는 곳을 두드리면 모두 tinel's sign이다. 손목외에도 많다.
 - 가장 많이 압박받는 **횡 수근 인대**를 두드려야한다.

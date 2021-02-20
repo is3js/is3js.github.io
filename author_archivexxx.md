@@ -30,7 +30,7 @@ subclass: 'post page'
               <!--각 글 li 시작-->  
               <li class="entry-title">
                 <a href="{{ post.url }}" target="_self" title="{{ post.title }}">
-                <h6>{% if post.author == "tingstyle1" %}🧑🏻{% else %}👧🏻{% endif %}{{ post.date | date: '%Y-%m-%d' }}  {{ post.title }}</h6>  
+                [{{ post.date | date: '%Y-%m-%d' }}] {{ post.title }} by {% if post.author == "tingstyle1" %}🧑🏻{% else %}👧🏻{% endif %}
                 </a>
             </li>
             {% endif %}{% endfor %}
@@ -38,3 +38,6 @@ subclass: 'post page'
 	</article><!-- /.hentry -->
 {% endunless %}{% endfor %}
 </div>
+
+
+	

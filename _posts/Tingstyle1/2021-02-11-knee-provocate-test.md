@@ -19,7 +19,8 @@ toc: true
 
 
 
-## [ACL(전방십자인대) 검사](https://www.youtube.com/watch?v=tf2xBJZFcg4)
+## ACL(전방십자인대) 검사]
+- [유튜브]https://www.youtube.com/watch?v=tf2xBJZFcg4)
 
 ![](https://user-images.githubusercontent.com/54255124/107912152-5451d900-6fa1-11eb-808b-f20c9cc708a5.png)
 ![](https://user-images.githubusercontent.com/54255124/107912156-56b43300-6fa1-11eb-8f78-2317be4120b9.png)
@@ -31,7 +32,8 @@ toc: true
 
 
 
-### [Lachman test](https://www.youtube.com/watch?v=tf2xBJZFcg4) (anterior drawer X)
+### Lachman test
+- [유튜브](https://www.youtube.com/watch?v=tf2xBJZFcg4) (anterior drawer X)
 
 - anterior drawer test도 있지만 민감도(22~70)가 높지 않아서, 라크만(85) 검사를 많이 한다.
 
@@ -55,7 +57,8 @@ toc: true
 
 ## PCL(후방십자인대) 검사
 
-### [Posterior drawer test](https://www.youtube.com/watch?v=tf2xBJZFcg4)
+### Posterior drawer test
+- [유튜브](https://www.youtube.com/watch?v=tf2xBJZFcg4)
 
 - 누운 체로 무릎을 90도로 세워(hip45, knee 90 flexion)세우고, **검사자 엉덩이로 foot을 깔고앉아서 고정** 시킨 뒤, 양손의 엄지로 patellar ligament가 있는 tibial head의 외, 내슬안에 엄지를 갖다대면서 양손으로 감싸쥐고, 힘차게 tibia를 뒤로 "훅!" **여러번** 눌러서 후방으로 이동시킨다.
 
@@ -71,7 +74,8 @@ toc: true
 
 ## 내/외 측부인대 검사
 
-### [valgus(외전으로 내측) stress test](https://www.youtube.com/watch?v=GSFbttpxCuQ)
+### valgus(외전으로 내측) stress test
+- [유튜브](https://www.youtube.com/watch?v=GSFbttpxCuQ)
 
 - 앙와위 상태에서, 무릎을 완전히 펴거나 or 테이블 밖으로 소퇴를 내어놓고 무릎을 20도 정도 구부려서 검사한다.
   ![](https://user-images.githubusercontent.com/54255124/107912396-c7f3e600-6fa1-11eb-8ccd-63abc1d33c71.png)
@@ -87,7 +91,8 @@ toc: true
 
 
 
-### [valus(내전으로 외측) stress test](https://www.youtube.com/watch?v=GSFbttpxCuQ)
+### valus(내전으로 외측) stress test
+- [유튜브](https://www.youtube.com/watch?v=GSFbttpxCuQ)
 
 - 앙와위에서, 검사발을 침대 가장자리 밖으로 약간 빼놓고, 검사자는 침대에 걸터 앉아 하지를 무릎에 얹어 받친다.
   한손으로 ankle을 바깥 밑으로 감싸쥐고(내회전 준비), 다른손으로는 femur의 안쪽 밑을 감싸서 고정시킨다.
@@ -110,7 +115,8 @@ toc: true
 
 
 
-### [Patellar grind test(Clarke's Sign)](https://www.youtube.com/watch?v=pRqnODPqxFs)
+### Patellar grind test(Clarke's Sign)
+- [유튜브](https://www.youtube.com/watch?v=pRqnODPqxFs)
 
 - 2가지를 동시에 관찰할 수 있다.
 
@@ -144,7 +150,8 @@ toc: true
 
   
 
-### [McMurray test](https://www.youtube.com/watch?v=tf2xBJZFcg4)
+### McMurray test
+- [유튜브](https://www.youtube.com/watch?v=tf2xBJZFcg4)
 
 - 반월판의 뒤쪽부분만 확인가능하다. 대부분 뒤쪽부분만 손상이 온다고 한다.
 
@@ -162,7 +169,7 @@ toc: true
   ![](https://user-images.githubusercontent.com/54255124/107912545-0689a080-6fa2-11eb-8d18-95fcd12ea3a6.png)
   ![](https://user-images.githubusercontent.com/54255124/107912551-08536400-6fa2-11eb-8eab-34064bf3c6e7.png)
   ![](https://user-images.githubusercontent.com/54255124/107912577-1903da00-6fa2-11eb-8a56-e1d91d21169d.png)
-![](https://user-images.githubusercontent.com/54255124/107912581-1a350700-6fa2-11eb-8aee-92c8b5213848.png)
+  ![](https://user-images.githubusercontent.com/54255124/107912581-1a350700-6fa2-11eb-8aee-92c8b5213848.png)
   ![](https://user-images.githubusercontent.com/54255124/107912583-1b663400-6fa2-11eb-99a0-07fa271f9f43.png)
   
   

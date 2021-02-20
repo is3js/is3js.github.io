@@ -60,7 +60,8 @@ toc: true
 
 
 
-### [Kernig's sign](https://youtu.be/vsJG19M2rro)
+### Kernig's sign
+[유튜브](https://youtu.be/vsJG19M2rro)
 
 - 뇌수막염외 지주막하출혈 을 감별한다.
 
@@ -72,11 +73,9 @@ toc: true
   - 고관절 굴곡시 좌골신경을 통해 수막이 말초방향으로 견인되어, 수막자극 상태라면 통증이 유발된다.
 
   ![image](https://user-images.githubusercontent.com/54255124/108031711-a9125400-7074-11eb-9baa-49c0c26de0a4.png)
-![](https://user-images.githubusercontent.com/54255124/107869662-d7a4f900-6ed3-11eb-976c-49a7df9b0c8d.png)
-  
-![image](https://user-images.githubusercontent.com/54255124/108031835-d9f28900-7074-11eb-8fc4-aca79dd53caa.png)
+  ![](https://user-images.githubusercontent.com/54255124/107869662-d7a4f900-6ed3-11eb-976c-49a7df9b0c8d.png)
+  ![image](https://user-images.githubusercontent.com/54255124/108031835-d9f28900-7074-11eb-8fc4-aca79dd53caa.png)
   ![](https://user-images.githubusercontent.com/54255124/107869663-da075300-6ed3-11eb-8104-616c24451f85.png)
-  
   ![](https://user-images.githubusercontent.com/54255124/107869669-dbd11680-6ed3-11eb-8c5c-95aa4d6f9428.png)
 
 
@@ -150,7 +149,8 @@ toc: true
 
 
 
-### [Wright test for 소흉근](https://www.youtube.com/watch?v=0FVvOAndbwk)
+### Wright test for 소흉근
+- [유튜브](https://www.youtube.com/watch?v=0FVvOAndbwk)
 
 - adson test처럼 팔을 20~40도 외전 + 약간 몸뒤쪽으로 외회전 + 요골동맥 잡은 상태에서
   삼각근을 한손으로 잡고 쭉 외전시켜준다. -> **소흉근에 걸리게 하여 맥박이 감소하면 소흉근 증후군**
@@ -159,7 +159,8 @@ toc: true
 
 
 
-###  [Roos test](https://www.youtube.com/watch?v=0FVvOAndbwk)
+### Roos test
+- [유튜브](https://www.youtube.com/watch?v=0FVvOAndbwk)
 
 - 양팔을 팔꿈치를 90도로 고정시킨 체 ㄴ자로 올린 상태에서, 3분동안 주먹을 쥐었다폈다 한다.
 
@@ -169,7 +170,8 @@ toc: true
 
 
 
-### [Costoclavicular test for 늑쇄증후군](https://www.youtube.com/watch?v=XEWO_cFy5YI)
+### Costoclavicular test for 늑쇄증후군
+- [유튜브](https://www.youtube.com/watch?v=XEWO_cFy5YI)
 
 - 늑쇄증후군을 보기 위해
   1분 동안, 환자 뒤에서 scapular를 뒤로 빼주고 -> 아래로 눌러준다.
