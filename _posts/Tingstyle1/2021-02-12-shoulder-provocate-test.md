@@ -172,8 +172,9 @@ toc: true
 ## 상완 이두근 장두 검사
 
 - 회전근개에 속하진 않지만, biceps long head가 어깨 관절 안으로 들어가서 humerous를 shoulder joint에 고정시켜주는 역할을 하기 때문에, 회전근개 거의 비슷한 역할을 한다.
-- 이두근의 역할 중 상완을 굴곡도 있지만, **전완을 외회전** 시키는 작용도 있는데,
-  **전완 외회전을 저항하는 검사법**이다.
+- 이두근의 역할 중 상완을 굴곡(flexion)도 있지만, **전완을 외회전(supination)** 시키는 작용도 있는데, 
+    **전완 외회전(supination)에  저항하는 검사법**이다.
+
 
 
 
@@ -181,13 +182,13 @@ toc: true
 - [유튜브](https://www.youtube.com/watch?v=gs1n8dBKeLQ&pbjreload=101)
 
 - 앉은 상태의, 환자는 주관절을 90도 굴곡, 팔을 옆구리에 고정 및 손바닥이 바닥을 본 상태에서
-  환자의 팔꿈치 및 손목을 잡고  "**이렇게 돌려보실까요~**" 하면서 주문을 준다.
+  환자의 팔꿈치 및 손목을 잡고  "**(supination)이렇게 돌려보실까요~**" 하면서 주문을 준다.
 
   저항검사를 하기 위해 팔꿈치 잡은 손을 Bicipital groove쪽으로 옮겨서
 
-  환자에게  **전완-회외전(supination) 및 상완-외회전(biceps  long head작용) 하도록 주문하면서 저항한다.**
+  환자에게  **전완-회외전(supination) 및 상완-외회전(추가적인 biceps  long head  작용) 하도록 주문하면서 저항한다.**
   "**이렇게 돌려보실까요~** 하면서 **작용에 저항**을 준다.
-  ->  통증시 전완을 외회전 시키는 biceps의 long head의 tendinitis를 의심할 수 있다.
+  ->  통증시 전완을 외회전(supination) 시키는 biceps의 long head의 tendinitis를 의심할 수 있다.
 
   ![](http://cfile9.uf.tistory.com/image/99B6B03A601E1A7F114C12)![](https://user-images.githubusercontent.com/54255124/107910184-35e9de80-6f9d-11eb-8d75-10f8892df6d6.png)
   ![](https://user-images.githubusercontent.com/54255124/107910191-3a15fc00-6f9d-11eb-8297-8c94b874ac94.png)

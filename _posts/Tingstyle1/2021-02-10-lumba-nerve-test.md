@@ -50,30 +50,34 @@ toc: true
 
 
 
-### L4
+### L4 (4-dorsiflexion은 발목 젖혀서)
 
 - `L4` : **전경골근**으로  **ankle dorsiflexion**검사인 **발목을 발등으로** 젖혀본다.
-- **진료실 앉아있는 상태에서는 `heel walk(뒤꿈치로 걷기)` 검사를 한다.**
-  - [유튜브](https://www.youtube.com/watch?v=VDv7QEcoRGg) / my) 4-wheel
+- **진료실 앉아있는 상태에서는 "발목을 위로 제껴보세요~" 하면서 검사한다.**
+    - my) `4-dorsiflexion은 발목 젖혀서` 
+    - [유튜브](https://www.youtube.com/watch?v=VDv7QEcoRGg)  
 
 
 
 
 
-### L5
+### L5 (5-발가락ext.은 HeeWalk)
 
 - `L5` : **장지신근**으로 **toe extension**검사인 **발가락이** **잘 젖혀지는지** 본다.
+- 뒤꿈치로 서면, 자연스럽게 발가락이 신전되므로 **"발꿈치로 서서 걸어보세요~"로 `Heel walk`로 L5-장지신근-toe extenstion검사**를 하자
+    - my) `5-발가락Ext.은 HeelWalk`
 
 
 
 
 
-### S1
+### S1 (1-plantar는 ToeWalk)
 
 - `S1` : **장,단 비골근**으로 **ankle plantarflexion**검사인 **한발로 발가락에 힘을주고 밀어서 족저굴곡이 잘되는지 확인**한다.
-- [유튜브](https://www.youtube.com/watch?v=MjdobXq0TsM)
-  - **진료실 앉아 있는 상태에서는 `toe walk(발가락으로 걷기)` 검사를 한다.**
-  - [유튜브](https://www.youtube.com/watch?v=1Tig-8uHU44) / my) 5-toe
+    - [유튜브](https://www.youtube.com/watch?v=MjdobXq0TsM)
+- **진료실 앉아 있는 상태에서는 `toe walk(발가락으로 걷기)` 검사를 한다.**
+    - [유튜브](https://www.youtube.com/watch?v=1Tig-8uHU44)
+    - my) `S1-plantar는 ToeWalk`로 
 
 
 

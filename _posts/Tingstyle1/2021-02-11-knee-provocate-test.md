@@ -38,7 +38,7 @@ toc: true
 - anterior drawer test도 있지만 민감도(22~70)가 높지 않아서, 라크만(85) 검사를 많이 한다.
 
 - 무릎을 20-30도 정도 굴곡시킨 뒤, 한손으로는 위쪽의 femur를 감싸잡아 고정시키고,
-  한손으로 아래쪽 tibia head쪽을 감싸잡아 앞으로 pull 당긴다.
+  한손으로 아래쪽 tibia head쪽을 감싸잡은 뒤 **약간 외회전을 준 상태에서** tibia를 pull 당긴다.(외회전 줘야 편하게 잘 당길 수 있다)
   만약, ACL이 정상적으로 붙어있으면 당길 때, end point가 느껴지나
   손상되었다면, 부드럽게 end point없이 당겨진다.
   -> **건측과 비교했을 때, 통증 및 덜렁거림이 느껴지면 만성 파열**
@@ -151,7 +151,7 @@ toc: true
   
 
 ### McMurray test
-- [유튜브](https://www.youtube.com/watch?v=tf2xBJZFcg4)
+- [유튜브](https://www.youtube.com/watch?v=1MZ2_VqOWbY)
 
 - 반월판의 뒤쪽부분만 확인가능하다. 대부분 뒤쪽부분만 손상이 온다고 한다.
 
