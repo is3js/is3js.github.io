@@ -8,7 +8,7 @@ date: 2021-02-26 08:00:00
 tags: [MCR, 입환, 루틴] 
 class: post-template 
 subclass: 'post tag-python' 
-author: tingstyle1 
+author: tingstyle1
 toc: true
 ---
 
