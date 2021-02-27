@@ -4,7 +4,7 @@ current: post
 cover:  assets/built/images/test.jpg
 navigation: True
 title: 입원환자-대면멘트  
-date: 2021-02-27 08:00:00
+date: 2021-02-26 08:00:00
 tags: [MCR, 입환, 루틴] 
 class: post-template 
 subclass: 'post tag-python' 
