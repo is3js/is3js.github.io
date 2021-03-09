@@ -144,4 +144,6 @@ vendor
 Gemfile.lock
 node_modules
 
-
+# output폴더
+.output
+output
