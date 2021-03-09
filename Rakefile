@@ -17,7 +17,7 @@ DESTINATION_BRANCH = "main"
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone --recurse-submodules https://$GIT_NAME:$GITHUB_TOKEN@github.com/#{USERNAME}/#{REPO}.git #{CONFIG["destination"]}"
+    sh "git clone https://$GIT_NAME:$GITHUB_TOKEN@github.com/#{USERNAME}/#{REPO}.git #{CONFIG["destination"]}"
   end
 end
 
@@ -70,6 +70,7 @@ namespace :site do
       sh "if [ -n '$(git status)' ]; then
             git add --all .;
             git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.';
+            git submodule update.;
             git push -f https://$GITHUB_TOKEN@github.com/#{USERNAME}/#{USERNAME}.github.io.git #{DESTINATION_BRANCH} --quiet ;
          fi"
       puts "Pushed updated branch #{DESTINATION_BRANCH} to GitHub Pages"
