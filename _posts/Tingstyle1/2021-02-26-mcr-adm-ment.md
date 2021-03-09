@@ -8,7 +8,7 @@ date: 2021-02-26 08:00:00
 tags: [MCR, 입환, 루틴] 
 class: post-template 
 subclass: 'post tag-python' 
-author: tingstyle1
+author: tingstyle1  
 toc: true
 ---
 
@@ -56,7 +56,7 @@ toc: true
     - `Lateral bending(30/30)` : 옆으로 넘어가보실까요?
     - `Rotation(60/60)` : 옆으로 한번 비틀어 보실까요?
 
-    ```python
+    ```
     <C-Spine check>
     ROM
      Flexion         45
@@ -88,7 +88,7 @@ toc: true
     - 둘다 강력하게 힘이 들어온다 : `5`
     - 한쪽이 약하다 : `약한쪽 4`
 
-    ```python
+    ```
     <C-Spine check>
     Motor
      Elbow flexion(C6)      5/5
@@ -114,7 +114,7 @@ toc: true
 
   - ++++/+ : 왼쪽 **아예 감각 없음(75%이상)** 떨어짐
 
-    ```python
+    ```
     <C-Spine check>
     Sensory
      C6     ++++/++++
@@ -138,7 +138,7 @@ toc: true
 
   - SLRT -> bragard -> patrick test
 
-    ```python
+    ```
     <L-Spine check>
     Special test
      SLR          80/80
