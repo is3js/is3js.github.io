@@ -4,7 +4,7 @@ current: post
 cover:  assets/built/images/test.jpg
 navigation: True
 title: 부위별 운동  
-date: 2021-02-26 08:00:00
+date: 2021-03-01 08:00:00
 tags: [MCR, 운동] 
 class: post-template 
 subclass: 'post tag-python' 

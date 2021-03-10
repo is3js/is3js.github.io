@@ -4,7 +4,7 @@ current: post
 cover:  assets/built/images/test.jpg
 navigation: True
 title: 주치의-입원,중간,퇴원,문서,병동약 등  
-date: 2021-02-26 08:00:00
+date: 2021-03-03 08:00:00
 tags: [MCR, 입원환자관리, 주치의] 
 class: post-template 
 subclass: 'post tag-python' 
