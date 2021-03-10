@@ -11,7 +11,6 @@ subclass: 'post tag-python'
 author: tingstyle1 
 toc: true
 ---
-
 ##  척수증 감별
 
 

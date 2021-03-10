@@ -1,6 +1,6 @@
 ---
 layout: post
-current: post 
+current: post   
 cover:  assets/built/images/test.jpg
 navigation: True
 title: 주치의-입원,중간,퇴원,문서,병동약 등  

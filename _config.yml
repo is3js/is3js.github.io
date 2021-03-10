@@ -124,7 +124,7 @@ repo: GithubPageMaker # travis에 연결할 블로그 원본 레포의 이름
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
-
+# https://leveloper.tistory.com/176
 branch: main
 # 사용할 branch명 master -> main 으로 변경되어서.. main으로 일단 바꿔보자.
 
