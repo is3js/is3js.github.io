@@ -1,0 +1,23 @@
+tingstyle1 :
+  username: tingstyle1    # user name : martin
+  name: tingstyle1        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: 전문의 수련중인 조재성 한의사 입니다.
+                        # 회사정보
+  picture: assets/built/images/author-tingstyle1.jpg  # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
+
+daisykim88 :
+  username: daisykim88    # user name : martin
+  name: daisykim88        # user full name : Martin Luther King
+  url_full:             # Homepage url
+  url:
+  bio: 일반수련의 수료한 김석영 한의사 입니다.
+                        # 회사정보
+  picture: assets/built/images/author-daisy0702.jpg  # author image
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False

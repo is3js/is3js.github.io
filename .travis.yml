@@ -1,0 +1,17 @@
+sudo: false
+language: ruby
+cache: bundler
+rvm:
+- 2.5.1
+install:
+- bundle install
+before_script:
+- git config --global user.email "is2js@naver.com"
+- git config --global user.name "is3js"
+script: bundle exec rake site:deploy --quiet
+env:
+  global:
+  - secure: jZc0dQE66JZA3vh6TlFeR5nPmB9XXOAuuJi14LtZIWcTnC/mlxw/R8dmqTZymlsQu7RWqU/tbJa28aA5Cmsxr9VbTeJyrb1+yXG12W0ngZcPcWO6zLNmD2qGugEc9Zl801AbljKqL7EYfl9MEuWvzoiZ6UvF2Co+a9DgWWKyyL3BKipqDqR+mrfYIs1sqCLgbrg+0SSfUIme5m/lt1IltWo3wg9U4GFvK0vQ2+DuOJ9+ISz/QHkOXtCgNxxGsPp1s9KbxeoGoW+zS8JiMaI7p+FEuuMr5NazvSCnPCZG+S9r4VMyKmGnuOLADmpiiyK1U3UdJYGj0hbCXOYG4SwVbnQ32LzdRZoV+MJhawhTqrBO6c1I1rkOE9fM2NdiMUs+MelO1ng7rtJXk3zygWF7vObG1wiG0n1rIFOQOTitrgXirkTxnAt5i9dLTF/IOIJ0Xnf/nF9vdI1dUbK+VfeEuu3paBAxVf6j6OWIOTbVKyjCvZ8DdiUm+SczLv8+K/+PbuhUe/RqNlQfPUt44JpfqxJbcZoL0Tjo9Zv62y0wDBqI1pecjuGWWhw9kpQHfLnkYIJGjTXISGuPBCR8RKACVOCcLf+K0rsZA8bboFb8A/S6ild+RZ2DMXzGIcdC6RJsudBCoOkbxJN8fNi8adg3pDn0fAuEueJ7cFkAOru3eEw=
+branches:
+  only:
+  - main
