@@ -1,32 +1,230 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
+    
     <url>
-        <loc>{{ site.url }}{{ post.url }}.html</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
+        <loc>https://is3js.github.io/typora.html</loc>
+        
+        <lastmod>2021-04-15T08:00:00+00:00</lastmod>
+        
 
-        {% if post.sitemap.changefreq == null %}
+        
         <changefreq>weekly</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
+        
 
-        {% if post.sitemap.priority == null %}
+        
         <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
+        
 
     </url>
-    {% endfor %}
+    
+    <url>
+        <loc>https://is3js.github.io/mcr-resident-job.html</loc>
+        
+        <lastmod>2021-03-03T08:00:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/mcr-exercise.html</loc>
+        
+        <lastmod>2021-03-01T08:00:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/mcr-adm-ment.html</loc>
+        
+        <lastmod>2021-02-26T08:00:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/wrist-provocate-test.html</loc>
+        
+        <lastmod>2021-02-12T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/shoulder-provocate-test.html</loc>
+        
+        <lastmod>2021-02-12T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/elbow-provocate-test.html</loc>
+        
+        <lastmod>2021-02-12T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/pelvis-provocate-test.html</loc>
+        
+        <lastmod>2021-02-11T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/knee-provocate-test.html</loc>
+        
+        <lastmod>2021-02-11T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/ankle-provocate-test.html</loc>
+        
+        <lastmod>2021-02-11T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/lumba-provocate-test.html</loc>
+        
+        <lastmod>2021-02-10T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/lumba-nerve-test.html</loc>
+        
+        <lastmod>2021-02-10T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/cervical-nerve-test.html</loc>
+        
+        <lastmod>2021-02-09T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://is3js.github.io/cerival-provocate-test.html</loc>
+        
+        <lastmod>2021-02-09T16:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
 </urlset>

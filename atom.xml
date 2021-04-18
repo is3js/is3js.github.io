@@ -1,28 +1,250 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>슬기로운 한의사 생활</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    https://is3js.github.io</link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>typora 설치후 해야할 것</title>
+        
+          <description>&lt;h3 id=&quot;최신-버전-업데이트&quot;&gt;최신 버전 업데이트&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;도움말 &amp;gt; Check updates &amp;gt; 업데이트&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Apr 2021 08:00:00 +0000</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        https://is3js.github.io/typora</link>
+        <guid isPermaLink="true">https://is3js.github.io/typora</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>주치의-입원,중간,퇴원,문서,병동약 등</title>
+        
+          <description>&lt;h1 id=&quot;입원&quot;&gt;입원&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Wed, 03 Mar 2021 08:00:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/mcr-resident-job</link>
+        <guid isPermaLink="true">https://is3js.github.io/mcr-resident-job</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>부위별 운동</title>
+        
+          <description>&lt;h3 id=&quot;도리도리-운동목&quot;&gt;도리도리 운동(목)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eReIEoieQsQ&quot;&gt;유튜브&lt;/a&gt;
+	튼튼하고 강력한 허리와 달리, 단순하게 머리 무게 받치는 작은 구조 -&amp;gt; 부드럽고 유연해야 충격을 잘 흡수 시키는 상태로 유지 
+	팔에 수박을 든 것으로 비유, 고개를 숙이는 현대인들은 일자목 거북목 -&amp;gt; 팔에 힘 많이 들어가는 것 만큼 목이 경직되고 피로함. 
+	첨엔 어지러워서 거울보고하다가 눈감고 하는게좋다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 어깨와 등을 펴고 (안펴고 어좁이 상태로 하면 좋은 운동해도 목이 안움직여짐)
+2. 심호흡 몇번 해서 힘을 빼게 하고(이완)
+3. 어깨를 덜썩덜썩 몇번해서 힘을 빼게 하고 
+4. 정면을 바라보면서 도리도리(좁은각도부터 점점 늘리기)
+ - 각도가 중요X 힘빠지는게 중요. 느껴야함. 
+ - 10~20번 단위, 생각날때마다. 
+ - 목과 머리에 저항이 없는 상태가 가장 좋은 컨디션 / 근육이 꼬였다 풀어지면서 뼈자체도 편안해짐. 
+5. 목에 힘 들어갔는지 확인하기 
+ - 한 사람은 뒤에 서서, 고개 편하게 조정,  눈 감게하고, 귀쪽을 감싸잡고 좌우로 도리도리 시켜보기 
+ - 한쪽만 살짝 돌릴 때, 부드럽게 자동으로 돌아가는 상태가 되어야하는데
+ - 경직시, 뻣뻣하거나 잘 안돌아가거나, 한쪽만 돌아간다면 목쪽에 심각한 상태 
+6. 목은 강화 운동 X 힘을 빼서 유연하게 -&amp;gt; 도리도리 생활화 
+ - 한 시간에 1번, 빠르면 20~30분에 1번 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        
+        <pubDate>Mon, 01 Mar 2021 08:00:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/mcr-exercise</link>
+        <guid isPermaLink="true">https://is3js.github.io/mcr-exercise</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>입원환자-대면멘트</title>
+        
+          <description>&lt;h3 id=&quot;초진차트-뽑기---가서-뵙기&quot;&gt;초진차트 뽑기 -&amp;gt; 가서 뵙기&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Fri, 26 Feb 2021 08:00:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/mcr-adm-ment</link>
+        <guid isPermaLink="true">https://is3js.github.io/mcr-adm-ment</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>손목-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;건초염&quot;&gt;건초염&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Fri, 12 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/wrist-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/wrist-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>어깨-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;충돌증후군-검사&quot;&gt;충돌증후군 검사&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Fri, 12 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/shoulder-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/shoulder-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>팔꿈치-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;mediallater-epicondylitis-검사&quot;&gt;Medial/Later Epicondylitis 검사&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Fri, 12 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/elbow-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/elbow-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>골반-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;고관절--천장관절&quot;&gt;고관절 &amp;amp; 천장관절&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Thu, 11 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/pelvis-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/pelvis-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>무릎-이학적검사</title>
+        
+          <description>&lt;ul&gt;
+  &lt;li&gt;무릎은인대(ACL)와 반월판 먼저&lt;/li&gt;
+  &lt;li&gt;스키타다 다쳤다 등의 급성으로 인대, 반월판이 손상될 경우,  티가난다.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;엄청 부어있으며 열감에 멍&lt;/strong&gt;까지…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;보통 우리가 볼 환자들은 &lt;strong&gt;만성환자&lt;/strong&gt;들이다.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 11 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/knee-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/knee-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>발목-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;발목인대-안전성&quot;&gt;발목(인대) 안전성&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Thu, 11 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/ankle-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/ankle-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>요추-이학적적검사</title>
+        
+          <description>&lt;h2 id=&quot;강직성-척추염&quot;&gt;강직성 척추염&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/lumba-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/lumba-provocate-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>요추-신경학적검사</title>
+        
+          <description>&lt;h2 id=&quot;요추-수술적응증마미증후군&quot;&gt;요추 수술적응증(마미증후군)&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/lumba-nerve-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/lumba-nerve-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>경추-신경학적검사</title>
+        
+          <description>&lt;h2 id=&quot;경추-수술적응증척수증&quot;&gt;경추 수술적응증(척수증)&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Tue, 09 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/cervical-nerve-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/cervical-nerve-test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>경추-이학적검사</title>
+        
+          <description>&lt;h2 id=&quot;척수증-감별&quot;&gt;척수증 감별&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Tue, 09 Feb 2021 16:40:00 +0000</pubDate>
+        <link>
+        https://is3js.github.io/cerival-provocate-test</link>
+        <guid isPermaLink="true">https://is3js.github.io/cerival-provocate-test</guid>
+      </item>
+      
+    
   </channel>
 </rss>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://is3js.github.io/tag/typora/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://is3js.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-04-18T00:59:15+00:00</updated>
+  <id>https://is3js.github.io/tag/typora/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">슬기로운 한의사 생활 | </title>
+  
+
+  
+    <subtitle>슬기로운 한의사 생활</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">typora 설치후 해야할 것</title>
+      <link href="https://is3js.github.io/typora" rel="alternate" type="text/html" title="typora 설치후 해야할 것" />
+      <published>2021-04-15T08:00:00+00:00</published>
+      <updated>2021-04-15T08:00:00+00:00</updated>
+      <id>https://is3js.github.io/typora</id>
+      <content type="html" xml:base="https://is3js.github.io/typora">&lt;h3 id=&quot;최신-버전-업데이트&quot;&gt;최신 버전 업데이트&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;도움말 &amp;gt; Check updates &amp;gt; 업데이트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;왼쪽에-contents-제목-띄우기&quot;&gt;왼쪽에 Contents 제목 띄우기&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;보기 &amp;gt;  개략&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;윈도우에서-우클릭으로-md파일-만들수-있게-하기&quot;&gt;윈도우에서 우클릭으로 .md파일 만들수 있게 하기&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mangkyu.tistory.com/80&quot;&gt;블로그&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;여기에서 레지스트리 파일 다운로드후 실행&lt;/li&gt;
+      &lt;li&gt;출저 : https://mangkyu.tistory.com/80&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;스샷-붙혀넣은-후-인터넷에-자동-업로드시켜-다른-컴퓨터에서도-보이게-하기&quot;&gt;스샷 붙혀넣은 후, 인터넷에 자동 업로드시켜 다른 컴퓨터에서도 보이게 하기&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://taeuk-gang.github.io/wiki/Typora%20%EC%8B%A0%EA%B8%B0%EB%8A%A5%20-%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%9E%90%EB%8F%99%20%EC%97%85%EB%A1%9C%EB%93%9C/&quot;&gt;참고블로그&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;서식 &amp;gt; 이미지 &amp;gt; 전역 이미지 설정&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;특별한 동작 없음&lt;/code&gt; 을 &lt;code class=&quot;highlighter-rouge&quot;&gt;Copy image to custom folder&lt;/code&gt;로 변경&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;로컬 이미지에 위 규칙을 적용&lt;/code&gt; 체크&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;가능하다면 상대적 위치 사용&lt;/code&gt; 체크&lt;/li&gt;
+  &lt;li&gt;Image Uploader에 &lt;code class=&quot;highlighter-rouge&quot;&gt;PicGo-Core(command line)&lt;/code&gt; 선택후 &lt;code class=&quot;highlighter-rouge&quot;&gt;Download or Upgrade&lt;/code&gt; 클릭&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Open Config File&lt;/code&gt; 클릭 -&amp;gt;  notepad(메모장) or notepad++로 열기&lt;/li&gt;
+  &lt;li&gt;config.json파일이 열리면, 아래와 같이 세팅
+    &lt;ul&gt;
+      &lt;li&gt;screenshots 레포 생성된 상태&lt;/li&gt;
+      &lt;li&gt;발급받은 토큰 준비.&lt;/li&gt;
+      &lt;li&gt;프로필 &amp;gt; settings &amp;gt; developer settings &amp;gt;  repo + write:packages + admin:repo_hook + write:discussion 체크 &amp;gt; generate token
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{
+  &quot;picBed&quot;: {
+ &quot;current&quot;: &quot;github&quot;,
+ &quot;github&quot;: {
+&quot;repo&quot;: &quot;is3js/screenshots&quot;, # 계정명/레포명 
+&quot;token&quot;: &quot;&amp;lt;github-프로필세팅-developsetting-PersonalAcessToken-생성&amp;gt;&quot;,
+&quot;path&quot;: &quot;&quot;, # 레포안의 저장할폴더(/로 시작x /로 끝 ex&amp;gt; image/ )
+&quot;customUrl&quot;: &quot;https://raw.githubusercontent.com/is3js/screenshots/main&quot;, #계정명/레포명/브랜치명 
+&quot;branch&quot;: &quot;main&quot; # 위에서 적은 브랜치명 ex&amp;gt; main
+ }
+  },
+  &quot;settings&quot;: {
+ &quot;showUpdateTip&quot;: true,
+ &quot;autoStart&quot;: true,
+ &quot;uploadNotification&quot;: true,
+ &quot;miniWindowOntop&quot;: true
+  },
+  &quot;needReload&quot;: false,
+  &quot;picgoPlugins&quot;: {}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>daisykim88</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="typora" />
+      
+        <category term="it" />
+      
+
+      
+        <summary type="html">최신 버전 업데이트 도움말 &amp;gt; Check updates &amp;gt; 업데이트</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
